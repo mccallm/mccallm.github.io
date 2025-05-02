@@ -71,10 +71,3 @@ Matthew N. McCall is a tenured associate professor of Biostatistics & Computatio
 
 :::
 
-## Recent Posts
-Check out the latest &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
-
-:::{#recent-posts}
-:::
-
-<p align="right">[All Posts »](/posts.qmd)</p>

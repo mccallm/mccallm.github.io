@@ -83,6 +83,43 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://mccallm.github.io/files/images/nci_designation.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>Zachary Brehm has accepted a position at GSK</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2024-zach-gsk/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>promotions</category>
+  <guid>https://mccallm.github.io/posts/2024-zach-gsk/</guid>
+  <pubDate>Sun, 01 Dec 2024 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Yun Zhang has accepted a position at the National Library of Medicine (NLM)</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2025-yun-nih/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>promotions</category>
+  <guid>https://mccallm.github.io/posts/2025-yun-nih/</guid>
+  <pubDate>Sun, 01 Dec 2024 05:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/profiles/yun-zhang.png" medium="image" type="image/png" height="144" width="144"/>
+</item>
+<item>
   <title>Welcome Ekram Hossain!</title>
   <dc:creator>News </dc:creator>
   <link>https://mccallm.github.io/posts/2024-ekram-joins/</link>
@@ -102,7 +139,7 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://mccallm.github.io/files/profiles/ekram-hossain.jpeg" medium="image" type="image/jpeg"/>
 </item>
 <item>
-  <title>Microglia Imaging R01 funded!</title>
+  <title>Microglia Imaging R01 funded</title>
   <dc:creator>News </dc:creator>
   <link>https://mccallm.github.io/posts/2024-microglia-grant/</link>
   <description><![CDATA[ 
@@ -137,7 +174,7 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://mccallm.github.io/files/images/ninds_logo.png" medium="image" type="image/png" height="33" width="144"/>
 </item>
 <item>
-  <title>Matt has been granted tenure!</title>
+  <title>Matt has been granted tenure</title>
   <dc:creator>News </dc:creator>
   <link>https://mccallm.github.io/posts/2024-matt-tenure/</link>
   <description><![CDATA[ 
@@ -156,7 +193,7 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://mccallm.github.io/files/profiles/McCall-Photo.JPG" medium="image"/>
 </item>
 <item>
-  <title>Ernesto receives Marie Sklodowska-Curie Fellowship!</title>
+  <title>Ernesto receives Marie Sklodowska-Curie Fellowship</title>
   <dc:creator>News </dc:creator>
   <link>https://mccallm.github.io/posts/2024-ernesto-grant/</link>
   <description><![CDATA[ 
@@ -209,7 +246,97 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://mccallm.github.io/files/profiles/seong-hwan-jun.png" medium="image" type="image/png" height="165" width="144"/>
 </item>
 <item>
-  <title>Erik VonKaenel successfully defended his thesis!</title>
+  <title>Farewell Zachary Brehm!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2023-zach-departs/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>farewells</category>
+  <guid>https://mccallm.github.io/posts/2023-zach-departs/</guid>
+  <pubDate>Fri, 01 Dec 2023 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Welcome Ernesto Aparicio-Puerta!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2023-ernesto-joins/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>welcomes</category>
+  <guid>https://mccallm.github.io/posts/2023-ernesto-joins/</guid>
+  <pubDate>Wed, 29 Nov 2023 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Zachary Brehm successfully defended his thesis</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2023-zach-defense/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>defense</category>
+  <guid>https://mccallm.github.io/posts/2023-zach-defense/</guid>
+  <pubDate>Thu, 16 Nov 2023 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Isar Nassiri has been promoted</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2023-isar-promoted/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>promotions</category>
+  <guid>https://mccallm.github.io/posts/2023-isar-promoted/</guid>
+  <pubDate>Fri, 01 Sep 2023 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Farewell Erik VonKaenel!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2023-erik-departs/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>farewells</category>
+  <guid>https://mccallm.github.io/posts/2023-erik-departs/</guid>
+  <pubDate>Tue, 01 Aug 2023 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Erik VonKaenel successfully defended his thesis</title>
   <dc:creator>News </dc:creator>
   <link>https://mccallm.github.io/posts/2023-erik-defense/</link>
   <description><![CDATA[ 
@@ -222,12 +349,12 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>news</category>
-  <category>farewells</category>
+  <category>defense</category>
   <guid>https://mccallm.github.io/posts/2023-erik-defense/</guid>
   <pubDate>Mon, 15 May 2023 04:00:00 GMT</pubDate>
 </item>
 <item>
-  <title>GIDS-REM Fellowship R25 funded!</title>
+  <title>GIDS-REM Fellowship R25 funded</title>
   <dc:creator>News </dc:creator>
   <link>https://mccallm.github.io/posts/2023-gidsrem-grant/</link>
   <description><![CDATA[ 
@@ -279,7 +406,25 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://mccallm.github.io/files/profiles/seong-hwan-jun.png" medium="image" type="image/png" height="165" width="144"/>
 </item>
 <item>
-  <title>MicroRNA-seq R01 funded!</title>
+  <title>Hopngying returns to URMC as an Assistant Professor</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2022-hongying-faculty/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>promotions</category>
+  <guid>https://mccallm.github.io/posts/2022-hongying-faculty/</guid>
+  <pubDate>Thu, 01 Sep 2022 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>MicroRNA-seq R01 funded</title>
   <dc:creator>News </dc:creator>
   <link>https://mccallm.github.io/posts/2021-microRNA-grant/</link>
   <description><![CDATA[ 
@@ -313,27 +458,9 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://mccallm.github.io/files/images/nigms_logo.png" medium="image" type="image/png" height="31" width="144"/>
 </item>
 <item>
-  <title>Valeriia Sherina successfully defended her thesis!</title>
+  <title>Yun Zhang was promoted to an Assistant Professor at JCVI</title>
   <dc:creator>News </dc:creator>
-  <link>https://mccallm.github.io/posts/2019-val-defense/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>farewells</category>
-  <guid>https://mccallm.github.io/posts/2019-val-defense/</guid>
-  <pubDate>Fri, 10 May 2019 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Matt has been promoted to Associate Professor!</title>
-  <dc:creator>News </dc:creator>
-  <link>https://mccallm.github.io/posts/2019-matt-promoted/</link>
+  <link>https://mccallm.github.io/posts/2021-yun-promoted/</link>
   <description><![CDATA[ 
 
 
@@ -345,177 +472,9 @@ https://quarto.org/docs/authoring/includes.html
  ]]></description>
   <category>news</category>
   <category>promotions</category>
-  <guid>https://mccallm.github.io/posts/2019-matt-promoted/</guid>
-  <pubDate>Tue, 01 Jan 2019 05:00:00 GMT</pubDate>
-  <media:content url="https://mccallm.github.io/files/profiles/mnm-headshot-2b.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>Yun Zhang successfully defended her thesis!</title>
-  <dc:creator>News </dc:creator>
-  <link>https://mccallm.github.io/posts/2018-yun-defense/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>farewells</category>
-  <guid>https://mccallm.github.io/posts/2018-yun-defense/</guid>
-  <pubDate>Thu, 31 May 2018 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Valeriia Sherina receives the Hall Fellowship!</title>
-  <dc:creator>News </dc:creator>
-  <link>https://mccallm.github.io/posts/2018-val-hall-fellowship/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>PhD candidate Valeriia Sherina was named as the 2017-2018 recipient of the William Jackson Hall Graduate Student Fellowship Award. This merit-based fellowship intends to recognize one or more Statistics doctoral students in their last semester or year of study whose academic record reflects the major cornerstones of Professor Hall’s distinguished career.</p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <category>awards</category>
-  <guid>https://mccallm.github.io/posts/2018-val-hall-fellowship/</guid>
-  <pubDate>Mon, 01 Jan 2018 05:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>Valeriia Sherina receives ENAR Student Paper Award!</title>
-  <dc:creator>News </dc:creator>
-  <link>https://mccallm.github.io/posts/2017-val-enar-award/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>Valeriia Sherina has been selected to receive one of the International Biometric Society Eastern North American Region’s (ENAR) Distinguished Student Paper Awards for the 2018 ENAR Spring Meeting in Atlanta, GA. The award recognizes your excellent paper entitled Statistical Approaches to Decreasing the Discrepancy of Non-detects in qPCR Data.</p>
-<p>The travel award covers up to $650 of the expenses associated with travel and lodging for Val to attend the Spring Meeting in Atlanta, GA. As an award winner, she will present her work at an oral contributed paper session, be invited to attend the ENAR President’s Reception and publicly receive the award at the beginning of the ENAR President’s Invited Address session.</p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <category>awards</category>
-  <guid>https://mccallm.github.io/posts/2017-val-enar-award/</guid>
-  <pubDate>Mon, 04 Dec 2017 05:00:00 GMT</pubDate>
-  <media:content url="https://mccallm.github.io/files/images/enar_logo.png" medium="image" type="image/png" height="30" width="144"/>
-</item>
-<item>
-  <title>Matt receives GSS Advocacy Award!</title>
-  <dc:creator>News </dc:creator>
-  <link>https://mccallm.github.io/posts/2015-matt-grad-advocacy/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>Dr.&nbsp;Matthew N. McCall is this year’s recipient of the Graduate Student Society (GSS) Advocacy Award, in recognition of his significant contributions in promoting excellence in the various realms of graduate education through participation, facilitation, and promotion of GSS goals and events.</p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <category>awards</category>
-  <guid>https://mccallm.github.io/posts/2015-matt-grad-advocacy/</guid>
-  <pubDate>Wed, 09 Sep 2015 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>The McCall Research Group has officially begun!</title>
-  <dc:creator>News </dc:creator>
-  <link>https://mccallm.github.io/posts/2014-matt-joins/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>promotions</category>
-  <guid>https://mccallm.github.io/posts/2014-matt-joins/</guid>
-  <pubDate>Mon, 01 Sep 2014 04:00:00 GMT</pubDate>
-  <media:content url="https://mccallm.github.io/files/profiles/mnm-headshot-2b.jpg" medium="image" type="image/jpeg"/>
-</item>
-<item>
-  <title>K99/R00 funded!</title>
-  <dc:creator>News </dc:creator>
-  <link>https://mccallm.github.io/posts/2013-K99-R00-grant/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>Advances in genomic technology have led to the discovery of numerous genes whose expression differs between cellular conditions; however, genes do not act in isolation, rather they act together in complex networks that drive cellular function. By considering the interactions between genes (and gene products), one gains a more in-depth understanding of the underlying cellular mechanisms. Estimation of these gene regulatory networks is necessary to understand cellular mechanisms, detect differences between cell types, and predict cellular response to interventions. Cancer progression has been shown to produce drastic changes in genetic networks critical to normal cellular function. Some oncogenic mutations produce self-sustaining alterations in the network structure such that removal of the original mutation does not restore normal cellular function. This suggests that identifying the original oncogenic mutation may not be sufficient for a targeted intervention; rather, a detailed understanding of the gene regulatory networks present in both normal and malignant cells may be necessary. Gene perturbation experiments are the primary tool to investigate gene regulatory networks and predict cellular response to interventions. Unfortunately, current network estimation algorithms are unable to adequately reconstruct gene networks from expression data. This is not surprising given that most network estimation algorithms function modularly and disregard uncertainty in previous steps. The overall goals of the proposed research are: (1) to improve the estimation of gene regulatory networks from perturbation experiments, by using methods that explicitly model and incorporate uncertainty in each step of the process, and (2) to use these estimated networks to predict cellular response to intervention. My long term goal is to pursue independent research into complex cellular networks drawing on the fields of statistics, systems biology, and genetics. This Award will provide support to obtain the expertise required to address the proposed research aims and transition to an independent research career. This will be accomplished through a combination of coursework, mentorship, and research experience. Of particular importance is continuing my education in molecular biology and cancer genomics through formal coursework and instruction in genomic laboratory techniques. This will provide the background necessary to work closely with biomedical investigators developing statistical methodology that addresses cutting-edge challenges in genomic research. Regular interaction with my mentors and collaborators experts in Statistics, Computational Biology, Biomedical Genetics, and Cancer Research will provide a rich environment in which I can obtain the necessary skills to successfully transition to independent research.</p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <category>grants</category>
-  <guid>https://mccallm.github.io/posts/2013-K99-R00-grant/</guid>
-  <pubDate>Fri, 27 Sep 2013 04:00:00 GMT</pubDate>
-  <media:content url="https://mccallm.github.io/files/images/nhgri_logo.png" medium="image" type="image/png" height="29" width="144"/>
+  <guid>https://mccallm.github.io/posts/2021-yun-promoted/</guid>
+  <pubDate>Tue, 06 Apr 2021 04:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/profiles/yun-zhang.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>
 </rss>

@@ -1,5 +1,42 @@
 [
   {
+    "listing": "/projects.html",
+    "items": []
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/2025_001_miRglmm/index.html",
+      "/publications/2024_001_49tissues/index.html",
+      "/publications/2024_002_shollbayes/index.html",
+      "/publications/2022_002_topnet_protocol/index.html",
+      "/publications/2022_001_microRNAome/index.html",
+      "/publications/2021_001_rsv/index.html",
+      "/publications/2021_002_topnet/index.html",
+      "/publications/2021_003_kinetics/index.html",
+      "/publications/2020_001_star_model/index.html",
+      "/publications/2020_002_nondetects2/index.html",
+      "/publications/2020_003_gtex_contamination/index.html",
+      "/publications/2019_001_coexprs/index.html",
+      "/publications/2018_001_cell_morph/index.html",
+      "/publications/2018_002_strides/index.html",
+      "/publications/2017_001_microRNAome/index.html",
+      "/publications/2016_001_gtex_lung/index.html",
+      "/publications/2016_002_hcc/index.html",
+      "/publications/2016_003_benchmark/index.html",
+      "/publications/2014_001_nondetects/index.html",
+      "/publications/2013_002_boolean/index.html",
+      "/publications/2013_001_barcode/index.html",
+      "/publications/2012_001_frmaST/index.html",
+      "/publications/2011_001_multivariate/index.html",
+      "/publications/2011_002_thawing/index.html",
+      "/publications/2011_003_quality/index.html",
+      "/publications/2011_004_barcode/index.html",
+      "/publications/2010_001_frma/index.html",
+      "/publications/2008_001_spikein/index.html"
+    ]
+  },
+  {
     "listing": "/posts.html",
     "items": [
       "/posts/2025-youjia-sdg/index.html",
@@ -40,10 +77,6 @@
       "/posts/2014-matt-joins/index.html",
       "/posts/2013-K99-R00-grant/index.html"
     ]
-  },
-  {
-    "listing": "/projects.html",
-    "items": []
   },
   {
     "listing": "/index.html",
@@ -90,38 +123,5 @@
   {
     "listing": "/people.html",
     "items": []
-  },
-  {
-    "listing": "/publications/index.html",
-    "items": [
-      "/publications/2025_001_miRglmm/index.html",
-      "/publications/2024_001_49tissues/index.html",
-      "/publications/2024_002_shollbayes/index.html",
-      "/publications/2022_002_topnet_protocol/index.html",
-      "/publications/2022_001_microRNAome/index.html",
-      "/publications/2021_001_rsv/index.html",
-      "/publications/2021_002_topnet/index.html",
-      "/publications/2021_003_kinetics/index.html",
-      "/publications/2020_001_star_model/index.html",
-      "/publications/2020_002_nondetects2/index.html",
-      "/publications/2020_003_gtex_contamination/index.html",
-      "/publications/2019_001_coexprs/index.html",
-      "/publications/2018_001_cell_morph/index.html",
-      "/publications/2018_002_strides/index.html",
-      "/publications/2017_001_microRNAome/index.html",
-      "/publications/2016_001_gtex_lung/index.html",
-      "/publications/2016_002_hcc/index.html",
-      "/publications/2016_003_benchmark/index.html",
-      "/publications/2014_001_nondetects/index.html",
-      "/publications/2013_002_boolean/index.html",
-      "/publications/2013_001_barcode/index.html",
-      "/publications/2012_001_frmaST/index.html",
-      "/publications/2011_001_multivariate/index.html",
-      "/publications/2011_002_thawing/index.html",
-      "/publications/2011_003_quality/index.html",
-      "/publications/2011_004_barcode/index.html",
-      "/publications/2010_001_frma/index.html",
-      "/publications/2008_001_spikein/index.html"
-    ]
   }
 ]

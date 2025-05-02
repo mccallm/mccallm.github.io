@@ -1,0 +1,21 @@
+---
+title: "Valeriia Sherina receives ENAR Student Paper Award"
+description: "Valeriia Sherina has been selected to receive one of the International Biometric Society Eastern North American Region’s (ENAR) Distinguished Student Paper Awards for the 2018 ENAR Spring Meeting in Atlanta, GA."
+author: "News"
+date: "2017-12-04"
+categories: [news, awards]
+image: "/files/images/enar_logo.png"
+#css: /custom.css
+#draft: true
+---
+
+
+## Summary
+Valeriia Sherina has been selected to receive one of the International Biometric Society Eastern North American Region’s (ENAR) Distinguished Student Paper Awards for the 2018 ENAR Spring Meeting in Atlanta, GA.  The award recognizes your excellent paper entitled Statistical Approaches to Decreasing the Discrepancy of Non-detects in qPCR Data.
+
+The travel award covers up to $650 of the expenses associated with travel and lodging for Val to attend the Spring Meeting in Atlanta, GA. As an award winner, she will present her work at an oral contributed paper session, be invited to attend the ENAR President’s Reception and publicly receive the award at the beginning of the ENAR President’s Invited Address session. 
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

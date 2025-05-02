@@ -1,0 +1,10 @@
+    - path: https://orcid.org/0000-0001-9138-9450
+#      image: ""
+      title: "Sami Leon"
+      lastname: "Leon"
+#      author: 
+      subtitle: "Graduate Research Assistant"
+#      date: "2024-03-12"
+      categories: [Graduate Research Assistant] 
+      started: "2020"
+      ended: "2024"

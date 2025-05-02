@@ -1,0 +1,10 @@
+---
+title: "Farewell Hongying Sun!"
+description: "Dr. Hongying Sun has accepted an RNA Computational Scientist position at Takeda Pharmaceuticals."
+author: "News"
+date: "2021-02-19"
+categories: [news, farewells]
+#image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

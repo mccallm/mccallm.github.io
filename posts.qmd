@@ -1,7 +1,7 @@
 ---
-title: "What’s New & Updated"
-subtitle: "Posts about papers, events, news, and more"
-description-meta: "Posts about papers, events, news, and more"
+title: "News"
+#subtitle: "Posts about papers, events, news, and more"
+description-meta: "Posts about news, events, and more"
 listing: 
   sort: "date desc"
   type: default
@@ -12,8 +12,8 @@ listing:
   feed: true
   contents: 
       - posts
-      - posts/post-links.yml
-#      categories: [] 
+#      - posts/post-links.yml
+#      - categories: [] 
 
 #page-layout: full
 draft-mode: unlinked

@@ -1,0 +1,19 @@
+---
+title: "Wilmot Cancer Institute earns NCI designation"
+description: "Of the estimated 1,500 cancer centers in the United States, the University of Rochester’s Wilmot Cancer Institute is now one of only 73 to have a special designation from the National Cancer Institute (NCI). The NCI recognition places Wilmot in the top 4 percent of cancer centers nationwide."
+author: "News"
+date: "2025-03-18"
+categories: [news, grants]
+image: "/files/images/nci_designation.jpg"
+#css: /custom.css
+#draft: true
+---
+
+
+## Summary
+
+To meet the rigors of the NCI designation process, which are unmatched in medicine, Wilmot restructured its entire organization, developed a bold strategic plan, doubled its research funding, and adopted a workplace culture that emphasizes collaboration over individual performance. It also initiated new programs in education, training, and community outreach and went on a multiyear recruiting frenzy that brought in 30 oncology stars—many of whom were at NCI-designated centers—to lead basic and clinical research teams. These moves culminated in a demanding, monthslong evaluation process—including an on-site NCI visit—which scrutinized a 1,300-page application describing every aspect of the cancer center’s operations, leadership, strategy, and research programs.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

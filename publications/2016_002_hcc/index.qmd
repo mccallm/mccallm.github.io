@@ -1,0 +1,15 @@
+---
+title: "A microRNA biomarker of hepatocellular carcinoma recurrence following liver transplantation accounting for within-patient heterogeneity"
+date: 2016-04-08
+author: ["Qing Yan Xie", "Anthony Almudevar", "Christa L. Whitney-Miller", "Christopher T. Barry", "Matthew N. McCall"] 
+publication: "BMC Medical Genomics, **9**, _18_ (2016)."
+categories:
+  - "microRNA"
+url_source: https://bmcmedgenomics.biomedcentral.com/articles/10.1186/s12920-016-0179-4
+url_preprint: 
+journ: "BMC Medical Genomics"
+issue: 9
+page: 18
+year: 2016
+pub_number: 
+---

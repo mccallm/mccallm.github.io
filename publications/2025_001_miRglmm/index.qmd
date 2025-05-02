@@ -1,0 +1,15 @@
+---
+title: "miRglmm: a generalized linear mixed model of isomiR-level counts improves estimation of miRNA-level differential expression and uncovers variable differential expression between isomiRs"
+date: 2025-04-22
+author: ["Andrea M. Baran", "Arun H. Patil", "Ernesto Aparicio-Puerta", "Seong-Hwan Jun", "Marc K. Halushka", "Matthew N. McCall"] 
+publication: "Genome Biology, **26**, _102_ (2025)."
+categories:
+  - "microRNA"
+url_source: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-025-03549-y
+url_preprint: 
+journ: "Genome Biology"
+issue: 26
+page: 102
+year: 2025
+pub_number: 100
+---

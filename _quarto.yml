@@ -1,75 +1,63 @@
 project:
   type: website
+  render:
+    - "*.qmd"
+    - "publications/**/*.qmd"
+    - "!publications/_template/"
+    - "posts/**/*.qmd"
   output-dir: docs
 
 # Meta
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-author-meta: "Dr. Gang He"
+description-meta: "McCall Research Group Website"
+author-meta: "Dr. Matthew N. McCall"
 
 website:
-  title: "Quarto Academic"
+  title: "McCall Research Group"
   image: "https://quarto.org/quarto.png"
-  description: "Quarto Academic Website Template adapted by Dr. Gang He"
+  description: "McCall Research Group Website"
  
   navbar:
     background: light
 
     left:
-#      - text: Home
-#        href: index.qmd
-      - text: About
-        menu:
-          - text: News
-            href: posts.qmd#category=news
-          - text: Events
-            href: posts.qmd#category=event      
-          - text: Contact
-            href: contact.qmd             
-      - text: Research
-        menu:
-          - text: List of Publication
-            href: publications.qmd
-          - text: Selected Papers
-            href: posts.qmd#category=paper
-          - text: Grants
-            href: projects.qmd                                
-      - text: Teaching
-        href: teaching.qmd
-      - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation                   
-      - text: Group
+      - text: Home
+        href: index.qmd
+      - text: People
         href: people.qmd
+      - text: Publications
+        href: publications/index.qmd
+      - text: News
+        href: posts.qmd
+#      - text: Teaching
+#        href: teaching.qmd
+#      - text: Outreach
+#        menu:        
+#        - text: Presentations
+#          href: posts.qmd#category=presentation                   
+
 
     right: 
       - text: CV
-        href: files/nsf-biosketch.pdf
+        href: files/mccall_cv.pdf
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/mccallm
         target: _blank
       - text: "{{< fa brands bluesky >}}"
-        href: https://bsky.app
+        href: https://bsky.app/profile/matthewnmccall.bsky.social
         target: _blank      
-      - icon: rss
-        href: posts.xml
-        target: _blank
   
   page-navigation: true
   
   page-footer: 
-    left: "[Your Name](http://www.github.com) &copy; <script>document.write(new Date().getFullYear())</script>" 
-    center: "Build on [Quart Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
+    left: "[Matthew N. McCall](http://www.github.com/mccallm) &copy; <script>document.write(new Date().getFullYear())</script>" 
+    center: "Build on [Quarto Academic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io)"
     right:  
       - icon: github
-        href: https://github.com/drganghe/quarto-academic-website-template
+        href: https://github.com/mccallm
         target: _blank
       - text: "{{< fa brands bluesky >}}" 
-        href: https://bsky.app
+        href: https://bsky.app/profile/matthewnmccall.bsky.social
         target: _blank
-      - icon: rss
-        href: posts.xml
-        target: _blank  
   
   search:
     location: navbar
@@ -79,7 +67,7 @@ website:
 
   draft-mode: unlinked
   
-  repo-url: https://github.com/drganghe/quarto-academic-website-template
+  repo-url: https://github.com/mccallm/mccallm.github.io
 #  repo-actions: [edit, issue, source]
   
   open-graph: true
@@ -87,7 +75,7 @@ website:
   twitter-card: true 
 #  card-style: summary      
   
-  site-url: "https://drganghe.github.io/quarto-academic-website-template"
+  site-url: "https://mccallm.github.io"
   
   google-analytics:
     tracking-id: ""  # Please delete or replace with your own tracking ID
@@ -108,6 +96,6 @@ format:
     link-external-icon: false
     link-external-newwindow: true
     email-obfuscation: javascript
-    link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
+    link-external-filter: '^(?:http:|https:)\/\/mccallm\.github\.io\/custom'
     include-in-header: "files/includes/_academic.qmd"
 

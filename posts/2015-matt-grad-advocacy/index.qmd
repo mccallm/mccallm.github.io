@@ -1,0 +1,18 @@
+---
+title: "Matt receives GSS Advocacy Award"
+description: "Dr. Matthew N. McCall is this year's recipient of the Graduate Student Society (GSS) Advocacy Award."
+author: "News"
+date: "2015-09-09"
+categories: [news, awards]
+#image: "/files/images/sdg_logo.png"
+#css: /custom.css
+#draft: true
+---
+
+
+## Summary
+Dr. Matthew N. McCall is this year's recipient of the Graduate Student Society (GSS) Advocacy Award, in recognition of his significant contributions in promoting excellence in the various realms of graduate education through participation, facilitation, and promotion of GSS goals and events.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -1,0 +1,10 @@
+---
+title: "Isar Nassiri has been promoted"
+description: "Dr. Isar Nassiri Jun has been promoted to Senior Spatial Transcriptomics Computational Biologist at the University of Oxford."
+author: "News"
+date: "2023-09-01"
+categories: [news, promotions]
+#image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

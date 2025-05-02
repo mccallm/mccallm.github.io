@@ -1,0 +1,15 @@
+---
+title: "Complex Sources of Variation in Tissue Expression Data: Analysis of the GTEx Lung Transcriptome"
+date: 2016-09-01
+author: ["Matthew N. McCall", "Peter B. Illei", "Marc K. Halushka"] 
+publication: "AJHG, **99(3)**, _624-635_ (2016)."
+categories:
+  - "tissue-variation"
+url_source: https://www.sciencedirect.com/science/article/pii/S0002929716302816
+url_preprint: 
+journ: "American Journal of Human Genetics"
+issue: 99(3)
+page: 624-635
+year: 2016
+pub_number: 
+---

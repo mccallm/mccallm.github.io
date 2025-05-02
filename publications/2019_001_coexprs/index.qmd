@@ -1,0 +1,17 @@
+---
+title: "The effect of tissue composition on gene co-expression"
+date: 2019-12-08
+author: ["Yun Zhang", "Jonavelle Cuerdo", "Marc K Halushka", "Matthew N McCall"] 
+publication: "Briefings in Bioinformatics, **22(1)**, _127-139_ (2022)."
+categories:
+  - "tissue-variation"
+  - "networks"
+url_source: https://academic.oup.com/bib/article/22/1/127/5669861
+url_preprint: 
+journ: "Briefings in Bioinformatics"
+issue: 22(1)
+page: 127-139
+year: 2021
+image: "featured.jpeg"
+pub_number: 
+---

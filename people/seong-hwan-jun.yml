@@ -1,0 +1,10 @@
+    - path: https://junseonghwan.github.io
+      image: "/files/profiles/seong-hwan-jun.png"
+      title: "Seong-Hwan Jun"
+      lastname: "Jun"
+#      author: 
+      subtitle: "Assistant Professor"
+#      date: "2024-03-12"
+      categories: [Assistant Professor] 
+      started: "2022"
+      ended: ""

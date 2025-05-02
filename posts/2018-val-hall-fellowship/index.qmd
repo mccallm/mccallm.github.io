@@ -1,0 +1,18 @@
+---
+title: "Valeriia Sherina receives the Hall Fellowship"
+description: "Valeriia Sherina has been awarded the William Jackson Hall Graduate Student Fellowship Award."
+author: "News"
+date: "2018-01-01"
+categories: [news, awards]
+#image: ""
+#css: /custom.css
+#draft: true
+---
+
+
+## Summary
+PhD candidate Valeriia Sherina was named as the 2017-2018 recipient of the William Jackson Hall Graduate Student Fellowship Award. This merit-based fellowship intends to recognize one or more Statistics doctoral students in their last semester or year of study whose academic record reflects the major cornerstones of Professor Hall’s distinguished career.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

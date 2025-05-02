@@ -1,0 +1,16 @@
+---
+title: "A systems genomics approach uncovers molecular associates of RSV severity"
+date: 2021-12-28
+author: ["Matthew N. McCall", "Chin-Yi Chu", "Lu Wang", "Lauren Benoodt", "Juilee Thakar", "Anthony Corbett", "Jeanne Holden-Wiltse", "Christopher Slaunwhite", "Alex Grier", "Steven R. Gill", "Ann R. Falsey", "David J. Topham", "Mary T. Caserta", "Edward E. Walsh", "Xing Qiu", "Thomas J. Mariani"] 
+publication: "PLoS Computational Biology, **17(12)**, _e1009617_ (2021)."
+categories:
+  - "other"
+url_source: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009617
+url_preprint: 
+journ: "PLoS Computational Biology"
+issue: 17(12)
+page: e1009617
+year: 2021
+image: "featured.png"
+pub_number: 
+---

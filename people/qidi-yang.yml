@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/qidi-yang/
+#      image: ""
+      title: "Qidi Yang"
+      lastname: "Yang"
+#      author: 
+      subtitle: "Undergraduate Student"
+#      date: "2024-03-12"
+      categories: [Undergraduate Student] 
+      started: "2017"
+      ended: "2019"

@@ -1,0 +1,15 @@
+---
+title: "Assessing Affymetrix GeneChip Microarray Quality"
+date: 2011-05-07
+author: ["Matthew N. McCall", "Peter N Murakami", "Margus Lukk", "Wolfgang Huber", "Rafael A. Irizarry"] 
+publication: "BMC Bioinformatics, **12**, _137_ (2011)."
+categories:
+  - "other"
+url_source: https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-12-137
+url_preprint: 
+journ: "BMC Bioinformatics"
+issue: 12
+page: 137
+year: 2011
+pub_number: 
+---

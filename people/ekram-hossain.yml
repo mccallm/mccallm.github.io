@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/ekram-hossain-36abb04b/
+      image: "/files/profiles/ekram-hossain.jpeg"
+      title: "Ekram Hossain"
+      lastname: "Hossain"
+#      author: 
+      subtitle: "Research Data Engineer"
+#      date: "2024-03-12"
+      categories: [Research Data Engineer] 
+      started: "2024"
+      ended: ""

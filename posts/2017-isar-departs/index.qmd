@@ -1,0 +1,10 @@
+---
+title: "Farewell Isar Nassiri!"
+description: "Dr. Isar Nassiri has accepted a position as a Postdoctoral Scholar at the University of Oxford."
+author: "News"
+date: "2017-08-31"
+categories: [news, farewells]
+#image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

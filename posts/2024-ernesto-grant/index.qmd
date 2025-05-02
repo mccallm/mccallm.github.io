@@ -1,0 +1,20 @@
+---
+title: "Ernesto receives Marie Sklodowska-Curie Fellowship"
+description: "Dr. Ernesto Aparicio-Puerta has been awarded the prestigious Marie Sklodowska-Curie Postdoctoral Fellowship."
+author: "News"
+date: "2024-02-01"
+categories: [news, grants]
+image: "/files/images/ec_logo.svg"
+#css: /custom.css
+#draft: true
+---
+
+
+## Summary
+Postdoctoral associate Ernesto Aparicio-Puerta, hosted by the McCall group, has been awarded the European Commission’s highly competitive Marie Sklodowska-Curie Postdoctoral Global Fellowship. The selection process evaluates the applicant's merits as well as the scientific quality of the host laboratory and the proposed project.
+
+Ernesto’s miRAQEL project aims to optimize several aspects of microRNA sequencing analysis to overcome the limitations of currently available methods. Changes in microRNA expression have been linked to numerous diseases so improving the estimation of microRNA levels has the potential to boost our understanding of their roles in health and disease. The fellowship provides additional funding to establish collaborations with other leading labs in the field including Michael Hackenberg’s group (University of Granada) who will host Ernesto for the last 12 moths of this fellowship.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

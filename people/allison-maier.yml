@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/allison-maier/
+#      image: ""
+      title: "Allison Maier"
+      lastname: "Maier"
+#      author: 
+      subtitle: "Undergraduate Student"
+#      date: "2024-03-12"
+      categories: [Undergraduate Student] 
+      started: "2015"
+      ended: "2015"

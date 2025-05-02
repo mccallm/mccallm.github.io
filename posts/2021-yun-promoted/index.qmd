@@ -1,0 +1,10 @@
+---
+title: "Yun Zhang was promoted to an Assistant Professor at JCVI"
+description: "Dr. Yun (Renee) Zhang has been promoted to an Assistant Professor position at the J. Craig Venter Institute."
+author: "News"
+date: "2021-04-06"
+categories: [news, promotions]
+image: "/files/profiles/yun-zhang.png"
+#css: /custom.css
+#draft: true
+---

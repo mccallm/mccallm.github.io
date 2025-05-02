@@ -1,0 +1,16 @@
+---
+title: "Autoregressive modeling and diagnostics for qPCR amplification"
+date: 2020-12-11
+author: ["Benjamin Hsu", "Valeriia Sherina", "Matthew N McCall"] 
+publication: "Bioinformatics, **36(22-23)**, _5386–5391_ (2020)."
+categories:
+  - "qpcr"
+url_source: https://academic.oup.com/bioinformatics/article/36/22-23/5386/6007255
+url_preprint: 
+journ: "Bioinformatics"
+issue: 36(22-23)
+page: 5386–5391
+year: 2020
+image: "featured.jpeg"
+pub_number: 
+---

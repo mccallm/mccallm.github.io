@@ -1,0 +1,16 @@
+---
+title: "Patterns of Unwanted Biological and Technical Expression Variation Among 49 Human Tissues"
+date: 2024-05-15
+author: ["Tim O. Nieuwenhuis", "Hunter H. Giles", "Jeremy V.A. Arking", "Arun H. Patil", "Wen Shi", "Matthew N. McCall", "Marc K. Halushka"] 
+publication: "Laboratory Investigation, **104**, _6_ (2024)."
+categories:
+  - "tissue-variation"
+url_source: https://www.sciencedirect.com/science/article/pii/S0023683724017471
+url_preprint: 
+journ: "Laboratory Investigation"
+issue: 104
+page: 6
+year: 2024
+image: "featured.jpeg"
+pub_number: 
+---

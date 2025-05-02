@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/elaparicio/?locale=es_ES
+      image: "/files/profiles/ernesto-aparicio-puerta.jpeg"
+      title: "Ernesto Aparicio-Puerta"
+      lastname: "Aparicio-Puerta"
+#      author: 
+      subtitle: "Postdoctoral Scholar"
+#      date: "2024-03-12"
+      categories: [Postdoctoral Scholar] 
+      started: "2023"
+      ended: ""

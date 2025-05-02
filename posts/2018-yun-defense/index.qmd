@@ -1,0 +1,10 @@
+---
+title: "Yun Zhang successfully defended her thesis"
+description: "Yun Zhang is now Dr. Yun Zhang after successfully defending her PhD thesis."
+author: "News"
+date: "2018-05-31"
+categories: [news, defense]
+#image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

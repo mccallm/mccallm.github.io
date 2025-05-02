@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/jonavelle-cuerdo/
+#      image: ""
+      title: "Jonavelle Cuerdo"
+      lastname: "Cuerdo"
+#      author: 
+      subtitle: "Undergraduate Student"
+#      date: "2024-03-12"
+      categories: [Undergraduate Student] 
+      started: "2016"
+      ended: "2018"

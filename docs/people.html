@@ -2,14 +2,14 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.6.40">
+<meta name="generator" content="quarto-1.5.57">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
-<meta name="author" content="Dr.&nbsp;Gang He">
-<meta name="description" content="Quarto Academic Website Template adapted by Dr.&nbsp;Gang He">
+<meta name="author" content="Dr.&nbsp;Matthew N. McCall">
+<meta name="description" content="McCall Research Group Website">
 
-<title>People – Quarto Academic</title>
+<title>People – McCall Research Group</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -39,10 +39,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-549806ee2085284f45b00abea8c6df48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-3146a0984a964146c28da0a2cf78b9ad.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -110,8 +110,9 @@ ul.task-list li input[type="checkbox"] {
 
     const options = {
       valueNames: ['listing-image','listing-title','listing-subtitle','listing-started','listing-ended',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
-      
-      searchColumns: ["listing-image","listing-title","listing-lastname","listing-subtitle","listing-categories","listing-started","listing-ended"],
+      page: 30,
+    pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
+      searchColumns: ["listing-title","listing-lastname","listing-subtitle","listing-categories","listing-started","listing-ended","listing-image"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -189,13 +190,13 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
-<meta property="og:title" content="People – Quarto Academic">
-<meta property="og:description" content="Who we are">
-<meta property="og:image" content="https://drganghe.github.io/quarto-academic-website-template/files/profiles/profile1.JPG">
-<meta property="og:site_name" content="Quarto Academic">
-<meta name="twitter:title" content="People – Quarto Academic">
-<meta name="twitter:description" content="Who we are">
-<meta name="twitter:image" content="https://drganghe.github.io/quarto-academic-website-template/files/profiles/profile1.JPG">
+<meta property="og:title" content="People – McCall Research Group">
+<meta property="og:description" content="Research Group Members Past and Present">
+<meta property="og:image" content="https://quarto.org/quarto.png">
+<meta property="og:site_name" content="McCall Research Group">
+<meta name="twitter:title" content="People – McCall Research Group">
+<meta name="twitter:description" content="Research Group Members Past and Present">
+<meta name="twitter:image" content="https://quarto.org/quarto.png">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -207,7 +208,7 @@ window.Quarto = {
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Quarto Academic</span>
+    <span class="navbar-title">McCall Research Group</span>
     </a>
   </div>
             <div id="quarto-search" class="" title="Search"></div>
@@ -216,82 +217,36 @@ window.Quarto = {
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-about" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">About</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-about">    
-        <li>
-    <a class="dropdown-item" href="./posts.html#category=news">
- <span class="dropdown-text">News</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./posts.html#category=event">
- <span class="dropdown-text">Events</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./contact.html">
- <span class="dropdown-text">Contact</span></a>
-  </li>  
-    </ul>
-  </li>
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-research" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Research</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-research">    
-        <li>
-    <a class="dropdown-item" href="./publications.html">
- <span class="dropdown-text">List of Publication</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./posts.html#category=paper">
- <span class="dropdown-text">Selected Papers</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./projects.html">
- <span class="dropdown-text">Grants</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item">
-    <a class="nav-link" href="./teaching.html"> 
-<span class="menu-text">Teaching</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-outreach" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Outreach</span>
-    </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-outreach">    
-        <li>
-    <a class="dropdown-item" href="./posts.html#category=presentation">
- <span class="dropdown-text">Presentations</span></a>
-  </li>  
-    </ul>
-  </li>
   <li class="nav-item">
     <a class="nav-link active" href="./people.html" aria-current="page"> 
-<span class="menu-text">Group</span></a>
+<span class="menu-text">People</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./publications/index.html"> 
+<span class="menu-text">Publications</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./posts.html"> 
+<span class="menu-text">News</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./files/nsf-biosketch.pdf"> 
+    <a class="nav-link" href="./files/mccall_cv.pdf"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/drganghe/quarto-academic-website-template" target="_blank"> <i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/mccallm" target="_blank"> <i class="bi bi-github" role="img">
 </i> 
 <span class="menu-text"></span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="https://bsky.app" target="_blank"> 
+    <a class="nav-link" href="https://bsky.app/profile/matthewnmccall.bsky.social" target="_blank"> 
 <span class="menu-text"><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="./posts.xml" target="_blank"> <i class="bi bi-rss" role="img">
-</i> 
-<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -310,14 +265,14 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(4)</span></div><div class="category" data-category="RGlyZWN0b3I=">Director <span class="quarto-category-count">(2)</span></div><div class="category" data-category="UGhEJTIwU3R1ZGVudA==">PhD Student <span class="quarto-category-count">(2)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(45)</span></div><div class="category" data-category="Assistant Professor">Assistant Professor <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Graduate Research Assistant">Graduate Research Assistant <span class="quarto-category-count">(8)</span></div><div class="category" data-category="PhD Student">PhD Student <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Postdoctoral Scholar">Postdoctoral Scholar <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Principal Investigator">Principal Investigator <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Research Data Engineer">Research Data Engineer <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Senior Associate">Senior Associate <span class="quarto-category-count">(1)</span></div><div class="category" data-category="T32 Trainee">T32 Trainee <span class="quarto-category-count">(2)</span></div><div class="category" data-category="Undergraduate Student">Undergraduate Student <span class="quarto-category-count">(22)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">People</h1>
-<p class="subtitle lead">Who we are</p>
+<p class="subtitle lead">Research Group Members Past and Present</p>
 </div>
 
 
@@ -338,35 +293,137 @@ window.Quarto = {
 <h2 class="anchored" data-anchor-id="team">Team</h2>
 <div id="listing-lab-member" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-4">
-<div class="g-col-1" data-index="0" data-categories="RGlyZWN0b3I=">
-<a href="https://drganghe.github.io/quarto-academic-website-template" class="quarto-grid-link">
+<div class="g-col-1" data-index="0" data-categories="Principal Investigator">
+<a href="https://mccallm.github.io" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
-<img loading="lazy" src="./files/profiles/profile1.JPG" class="thumbnail-image card-img" style="height: 200px;">
+<img loading="lazy" src="files/profiles/McCall-Photo.JPG" class="thumbnail-image card-img" style="height: 200px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-PI Name
+Matthew N. McCall
 </h5>
 <div class="card-subtitle listing-subtitle">
-PI
+Principal Investigator
 </div>
 </div>
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="UGhEJTIwU3R1ZGVudA==">
-<a href="https://drganghe.github.io/quarto-academic-website-template" class="quarto-grid-link">
+<div class="g-col-1" data-index="1" data-categories="Assistant Professor">
+<a href="https://junseonghwan.github.io" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
-<img loading="lazy" src="./files/profiles/profile2.JPG" class="thumbnail-image card-img" style="height: 200px;">
+<img loading="lazy" src="./files/profiles/seong-hwan-jun.png" class="thumbnail-image card-img" style="height: 200px;">
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Student Name
+Seong-Hwan Jun
+</h5>
+<div class="card-subtitle listing-subtitle">
+Assistant Professor
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="2" data-categories="Postdoctoral Scholar">
+<a href="https://www.linkedin.com/in/elaparicio/?locale=es_ES" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./files/profiles/ernesto-aparicio-puerta.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ernesto Aparicio-Puerta
+</h5>
+<div class="card-subtitle listing-subtitle">
+Postdoctoral Scholar
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="3" data-categories="PhD Student">
+<a href="https://www.linkedin.com/in/hannah-swan-225b78166/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./files/profiles/hannah-swan.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Hannah Swan
 </h5>
 <div class="card-subtitle listing-subtitle">
 PhD Student
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="4" data-categories="T32 Trainee">
+<a href="https://www.linkedin.com/in/ricardo-lópez-candelaria-42581a227/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./files/profiles/ricardo-lopez.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ricardo Lopez Candelaria
+</h5>
+<div class="card-subtitle listing-subtitle">
+T32 Trainee
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="5" data-categories="Senior Associate">
+<a href="https://www.urmc.rochester.edu/people/112359703-andrea-m-baran" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./files/profiles/andrea-baran.png" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Andrea Baran
+</h5>
+<div class="card-subtitle listing-subtitle">
+Senior Associate
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="6" data-categories="Research Data Engineer">
+<a href="https://www.linkedin.com/in/ekram-hossain-36abb04b/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./files/profiles/ekram-hossain.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Ekram Hossain
+</h5>
+<div class="card-subtitle listing-subtitle">
+Research Data Engineer
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="7" data-categories="Undergraduate Student">
+<a href="https://www.linkedin.com/in/youjia-zhang-ab5275268/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-center">
+<p class="card-img-top">
+<img loading="lazy" src="./files/profiles/youjia-zhang.jpeg" class="thumbnail-image card-img" style="height: 200px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Youjia Zhang
+</h5>
+<div class="card-subtitle listing-subtitle">
+Undergraduate Student
 </div>
 </div>
 </div>
@@ -387,8 +444,6 @@ No matching items
      <select id="listing-lab-alumni-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-lab-alumni'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
        <option value="" disabled="" selected="" hidden="">Order By</option>
        <option value="index" data-direction="asc">Default</option>
-         <option value="listing-image" data-direction="asc">
-        </option>
          <option value="listing-title-sort" data-direction="asc">
           Name
         </option>
@@ -400,6 +455,8 @@ No matching items
         </option>
          <option value="listing-ended" data-direction="asc">
           Ended
+        </option>
+         <option value="listing-image" data-direction="asc">
         </option>
      </select>
   </div>
@@ -429,15 +486,32 @@ No matching items
 </tr>
 </thead>
 <tbody class="list">
-<tr data-index="0" data-categories="UGhEJTIwU3R1ZGVudA==" data-listing-title-sort="Student Name">
+<tr data-index="0" data-categories="Graduate Research Assistant" data-listing-title-sort="Meherab Hossain">
 <td>
-<span class="listing-image"><img loading="lazy" src="./files/profiles/profile2.JPG" style="height: 25px;"></span>
+<span class="listing-image">&nbsp;</span>
 </td>
 <td>
-<a href="https://drganghe.github.io/quarto-academic-website-template" class="title listing-title">Student Name</a>
+<a href="https://www.linkedin.com/in/mehe03/" class="title listing-title">Meherab Hossain</a>
 </td>
 <td>
-<span class="listing-subtitle">PhD Student</span>
+<span class="listing-subtitle">Graduate Research Assistant</span>
+</td>
+<td>
+<span class="listing-started">2024</span>
+</td>
+<td>
+<span class="listing-ended">2024</span>
+</td>
+</tr>
+<tr data-index="1" data-categories="Graduate Research Assistant" data-listing-title-sort="Xinzhu (Claire) Wang">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/xinzhu-w-961035158/" class="title listing-title">Xinzhu (Claire) Wang</a>
+</td>
+<td>
+<span class="listing-subtitle">Graduate Research Assistant</span>
 </td>
 <td>
 <span class="listing-started">2024</span>
@@ -446,21 +520,599 @@ No matching items
 <span class="listing-ended">2025</span>
 </td>
 </tr>
-<tr data-index="1" data-categories="RGlyZWN0b3I=" data-listing-title-sort="PI Name">
+<tr data-index="2" data-categories="Graduate Research Assistant" data-listing-title-sort="Christian Hammond">
 <td>
-<span class="listing-image"><img loading="lazy" src="./files/profiles/profile1.JPG" style="height: 25px;"></span>
+<span class="listing-image">&nbsp;</span>
 </td>
 <td>
-<a href="https://drganghe.github.io/quarto-academic-website-template" class="title listing-title">PI Name</a>
+<a href="https://doi.org/10.1152/japplphysiol.00311.2023" class="title listing-title">Christian Hammond</a>
 </td>
 <td>
-<span class="listing-subtitle">PI</span>
+<span class="listing-subtitle">Graduate Research Assistant</span>
 </td>
 <td>
-<span class="listing-started">&nbsp;</span>
+<span class="listing-started">2023</span>
 </td>
 <td>
-<span class="listing-ended">&nbsp;</span>
+<span class="listing-ended">2023</span>
+</td>
+</tr>
+<tr data-index="3" data-categories="Graduate Research Assistant" data-listing-title-sort="Sami Leon">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://orcid.org/0000-0001-9138-9450" class="title listing-title">Sami Leon</a>
+</td>
+<td>
+<span class="listing-subtitle">Graduate Research Assistant</span>
+</td>
+<td>
+<span class="listing-started">2020</span>
+</td>
+<td>
+<span class="listing-ended">2024</span>
+</td>
+</tr>
+<tr data-index="4" data-categories="Graduate Research Assistant" data-listing-title-sort="Bokai Wang">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/bokai-wang-64439a50/" class="title listing-title">Bokai Wang</a>
+</td>
+<td>
+<span class="listing-subtitle">Graduate Research Assistant</span>
+</td>
+<td>
+<span class="listing-started">2019</span>
+</td>
+<td>
+<span class="listing-ended">2019</span>
+</td>
+</tr>
+<tr data-index="5" data-categories="Graduate Research Assistant" data-listing-title-sort="David Burton">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/david-burton-data-science/" class="title listing-title">David Burton</a>
+</td>
+<td>
+<span class="listing-subtitle">Graduate Research Assistant</span>
+</td>
+<td>
+<span class="listing-started">2018</span>
+</td>
+<td>
+<span class="listing-ended">2022</span>
+</td>
+</tr>
+<tr data-index="6" data-categories="Graduate Research Assistant" data-listing-title-sort="Jeremiah Jones">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/jmiahjones/" class="title listing-title">Jeremiah Jones</a>
+</td>
+<td>
+<span class="listing-subtitle">Graduate Research Assistant</span>
+</td>
+<td>
+<span class="listing-started">2017</span>
+</td>
+<td>
+<span class="listing-ended">2017</span>
+</td>
+</tr>
+<tr data-index="7" data-categories="Graduate Research Assistant" data-listing-title-sort="Kejia Wang">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/kejia-wang-55912b113/" class="title listing-title">Kejia Wang</a>
+</td>
+<td>
+<span class="listing-subtitle">Graduate Research Assistant</span>
+</td>
+<td>
+<span class="listing-started">2016</span>
+</td>
+<td>
+<span class="listing-ended">2016</span>
+</td>
+</tr>
+<tr data-index="8" data-categories="PhD Student" data-listing-title-sort="Erik VonKaenel">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/vonkaenelerik/" class="title listing-title">Erik VonKaenel</a>
+</td>
+<td>
+<span class="listing-subtitle">PhD Student</span>
+</td>
+<td>
+<span class="listing-started">2020</span>
+</td>
+<td>
+<span class="listing-ended">2023</span>
+</td>
+</tr>
+<tr data-index="9" data-categories="PhD Student" data-listing-title-sort="Zachary Brehm">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/zachary-brehm/" class="title listing-title">Zachary Brehm</a>
+</td>
+<td>
+<span class="listing-subtitle">PhD Student</span>
+</td>
+<td>
+<span class="listing-started">2018</span>
+</td>
+<td>
+<span class="listing-ended">2023</span>
+</td>
+</tr>
+<tr data-index="10" data-categories="PhD Student" data-listing-title-sort="Valeriia Sherina">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/valeriia-sherina/" class="title listing-title">Valeriia Sherina</a>
+</td>
+<td>
+<span class="listing-subtitle">PhD Student</span>
+</td>
+<td>
+<span class="listing-started">2015</span>
+</td>
+<td>
+<span class="listing-ended">2019</span>
+</td>
+</tr>
+<tr data-index="11" data-categories="Postdoctoral Scholar" data-listing-title-sort="Hongying Sun">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.urmc.rochester.edu/people/112363304-hongying-sun" class="title listing-title">Hongying Sun</a>
+</td>
+<td>
+<span class="listing-subtitle">Postdoctoral Scholar</span>
+</td>
+<td>
+<span class="listing-started">2020</span>
+</td>
+<td>
+<span class="listing-ended">2021</span>
+</td>
+</tr>
+<tr data-index="12" data-categories="Postdoctoral Scholar" data-listing-title-sort="Isar Nassiri">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.chg.ox.ac.uk/people/isar-nassiri" class="title listing-title">Isar Nassiri</a>
+</td>
+<td>
+<span class="listing-subtitle">Postdoctoral Scholar</span>
+</td>
+<td>
+<span class="listing-started">2016</span>
+</td>
+<td>
+<span class="listing-ended">2017</span>
+</td>
+</tr>
+<tr data-index="13" data-categories="Postdoctoral Scholar" data-listing-title-sort="Lilly (Qingyan) Xie">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/lillyxqy/" class="title listing-title">Lilly (Qingyan) Xie</a>
+</td>
+<td>
+<span class="listing-subtitle">Postdoctoral Scholar</span>
+</td>
+<td>
+<span class="listing-started">2014</span>
+</td>
+<td>
+<span class="listing-ended">2015</span>
+</td>
+</tr>
+<tr data-index="14" data-categories="Research Data Engineer" data-listing-title-sort="Pranay Mundra">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/pranay-mundra/" class="title listing-title">Pranay Mundra</a>
+</td>
+<td>
+<span class="listing-subtitle">Research Data Engineer</span>
+</td>
+<td>
+<span class="listing-started">2024</span>
+</td>
+<td>
+<span class="listing-ended">2024</span>
+</td>
+</tr>
+<tr data-index="15" data-categories="T32 Trainee" data-listing-title-sort="Yun Zhang">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.nlm.nih.gov/research/researchstaff/ZhangRenee.html" class="title listing-title">Yun Zhang</a>
+</td>
+<td>
+<span class="listing-subtitle">T32 Trainee</span>
+</td>
+<td>
+<span class="listing-started">2015</span>
+</td>
+<td>
+<span class="listing-ended">2018</span>
+</td>
+</tr>
+<tr data-index="16" data-categories="Undergraduate Student" data-listing-title-sort="Claire English">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/claire-english-43022b233/" class="title listing-title">Claire English</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2023</span>
+</td>
+<td>
+<span class="listing-ended">2023</span>
+</td>
+</tr>
+<tr data-index="17" data-categories="Undergraduate Student" data-listing-title-sort="Monish Shah">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/monish-shah-9359b9214/" class="title listing-title">Monish Shah</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2023</span>
+</td>
+<td>
+<span class="listing-ended">2024</span>
+</td>
+</tr>
+<tr data-index="18" data-categories="Undergraduate Student" data-listing-title-sort="Maisa Maliha">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/maisa-maliha-5108721a6/" class="title listing-title">Maisa Maliha</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2022</span>
+</td>
+<td>
+<span class="listing-ended">2023</span>
+</td>
+</tr>
+<tr data-index="19" data-categories="Undergraduate Student" data-listing-title-sort="Frank Gonzalez">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/frank-gonzalez-75b3651aa/" class="title listing-title">Frank Gonzalez</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2020</span>
+</td>
+<td>
+<span class="listing-ended">2021</span>
+</td>
+</tr>
+<tr data-index="20" data-categories="Undergraduate Student" data-listing-title-sort="Joshua Dennis">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/jdenn11/" class="title listing-title">Joshua Dennis</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2019</span>
+</td>
+<td>
+<span class="listing-ended">2019</span>
+</td>
+</tr>
+<tr data-index="21" data-categories="Undergraduate Student" data-listing-title-sort="Daniel Munoz Huerta">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/munozai/" class="title listing-title">Daniel Munoz Huerta</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2019</span>
+</td>
+<td>
+<span class="listing-ended">2019</span>
+</td>
+</tr>
+<tr data-index="22" data-categories="Undergraduate Student" data-listing-title-sort="Yuewei Fei">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/yuewei-fei/" class="title listing-title">Yuewei Fei</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2019</span>
+</td>
+<td>
+<span class="listing-ended">2021</span>
+</td>
+</tr>
+<tr data-index="23" data-categories="Undergraduate Student" data-listing-title-sort="Michael Lansford">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/michael-lansford-86303b25b/" class="title listing-title">Michael Lansford</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2019</span>
+</td>
+<td>
+<span class="listing-ended">2021</span>
+</td>
+</tr>
+<tr data-index="24" data-categories="Undergraduate Student" data-listing-title-sort="Benyu Zhou">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/benyu-zhou-476812200/" class="title listing-title">Benyu Zhou</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2019</span>
+</td>
+<td>
+<span class="listing-ended">2021</span>
+</td>
+</tr>
+<tr data-index="25" data-categories="Undergraduate Student" data-listing-title-sort="Oleg Demus">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/oleg-demus/" class="title listing-title">Oleg Demus</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2018</span>
+</td>
+<td>
+<span class="listing-ended">2018</span>
+</td>
+</tr>
+<tr data-index="26" data-categories="Undergraduate Student" data-listing-title-sort="Kailey Ferger">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/kailey-ferger/" class="title listing-title">Kailey Ferger</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2018</span>
+</td>
+<td>
+<span class="listing-ended">2019</span>
+</td>
+</tr>
+<tr data-index="27" data-categories="Undergraduate Student" data-listing-title-sort="Benjamin Hsu">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/benjamin-hsu/" class="title listing-title">Benjamin Hsu</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2017</span>
+</td>
+<td>
+<span class="listing-ended">2019</span>
+</td>
+</tr>
+<tr data-index="28" data-categories="Undergraduate Student" data-listing-title-sort="Qidi Yang">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/qidi-yang/" class="title listing-title">Qidi Yang</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2017</span>
+</td>
+<td>
+<span class="listing-ended">2019</span>
+</td>
+</tr>
+<tr data-index="29" data-categories="Undergraduate Student" data-listing-title-sort="Alida Mooney">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/alidamooney/" class="title listing-title">Alida Mooney</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2016</span>
+</td>
+<td>
+<span class="listing-ended">2016</span>
+</td>
+</tr>
+<tr data-index="30" data-categories="Undergraduate Student" data-listing-title-sort="Winslow Powers">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/winslow-powers-8a5b35a7/" class="title listing-title">Winslow Powers</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2016</span>
+</td>
+<td>
+<span class="listing-ended">2017</span>
+</td>
+</tr>
+<tr data-index="31" data-categories="Undergraduate Student" data-listing-title-sort="Jonavelle Cuerdo">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/jonavelle-cuerdo/" class="title listing-title">Jonavelle Cuerdo</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2016</span>
+</td>
+<td>
+<span class="listing-ended">2018</span>
+</td>
+</tr>
+<tr data-index="32" data-categories="Undergraduate Student" data-listing-title-sort="Lindsey Barden">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/lindseybarden/" class="title listing-title">Lindsey Barden</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2015</span>
+</td>
+<td>
+<span class="listing-ended">2015</span>
+</td>
+</tr>
+<tr data-index="33" data-categories="Undergraduate Student" data-listing-title-sort="Allison Maier">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/allison-maier/" class="title listing-title">Allison Maier</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2015</span>
+</td>
+<td>
+<span class="listing-ended">2015</span>
+</td>
+</tr>
+<tr data-index="34" data-categories="Undergraduate Student" data-listing-title-sort="Scott Onestak">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/scott-onestak-a8917891/" class="title listing-title">Scott Onestak</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2015</span>
+</td>
+<td>
+<span class="listing-ended">2015</span>
+</td>
+</tr>
+<tr data-index="35" data-categories="Undergraduate Student" data-listing-title-sort="Lauren Kemperman">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/laurenkemperman/" class="title listing-title">Lauren Kemperman</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2015</span>
+</td>
+<td>
+<span class="listing-ended">2017</span>
+</td>
+</tr>
+<tr data-index="36" data-categories="Undergraduate Student" data-listing-title-sort="Jeffrey Hrebenach">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/jhreb/" class="title listing-title">Jeffrey Hrebenach</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2015</span>
+</td>
+<td>
+<span class="listing-ended">2017</span>
 </td>
 </tr>
 </tbody>
@@ -468,6 +1120,9 @@ No matching items
 <div class="listing-no-matching d-none">
 No matching items
 </div>
+<nav id="lab-alumni-pagination" class="listing-pagination" aria-label="Page Navigation">
+  <ul class="pagination"></ul>
+</nav>
 </div>
 
 
@@ -557,6 +1212,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
   clipboard.on('success', onCopySuccess);
   if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
     const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
       text: getTextToCopy,
       container: window.document.getElementById('quarto-embedded-source-code-modal')
@@ -565,7 +1222,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("^(?:http:|https:)\/\/drganghe\.github\.io\/custom");
+      var filterRegex = new RegExp("^(?:http:|https:)\/\/mccallm\.github\.io\/custom");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }
@@ -672,6 +1329,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (window.Quarto?.typesetMath) {
         window.Quarto.typesetMath(note);
       }
+      // TODO in 1.5, we should make sure this works without a callout special case
       if (note.classList.contains("callout")) {
         return note.outerHTML;
       } else {
@@ -901,30 +1559,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 <footer class="footer">
   <div class="nav-footer">
     <div class="nav-footer-left">
-<a href="http://www.github.com">Your Name</a> ©
+<a href="http://www.github.com/mccallm">Matthew N. McCall</a> ©
 <script>document.write(new Date().getFullYear())</script>
 </div>   
     <div class="nav-footer-center">
-<p>Build on <a href="https://github.com/drganghe/quarto-academic-website-template">Quart Academic Website Template</a> adapted by <a href="http://drganghe.github.io">Dr.&nbsp;Gang He</a></p>
+<p>Build on <a href="https://github.com/drganghe/quarto-academic-website-template">Quarto Academic Website Template</a> adapted by <a href="http://drganghe.github.io">Dr.&nbsp;Gang He</a></p>
 </div>
     <div class="nav-footer-right">
       <ul class="footer-items list-unstyled">
     <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/drganghe/quarto-academic-website-template" target="_blank">
+    <a class="nav-link" href="https://github.com/mccallm" target="_blank">
       <i class="bi bi-github" role="img">
 </i> 
     </a>
   </li>  
     <li class="nav-item">
-    <a class="nav-link" href="https://bsky.app" target="_blank">
+    <a class="nav-link" href="https://bsky.app/profile/matthewnmccall.bsky.social" target="_blank">
 <p><i class="fa-brands fa-bluesky" aria-label="bluesky"></i></p>
 </a>
-  </li>  
-    <li class="nav-item compact">
-    <a class="nav-link" href="./posts.xml" target="_blank">
-      <i class="bi bi-rss" role="img">
-</i> 
-    </a>
   </li>  
 </ul>
     </div>

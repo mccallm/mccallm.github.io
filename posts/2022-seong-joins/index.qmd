@@ -1,0 +1,10 @@
+---
+title: "Welcome Seong-Hwan Jun!"
+description: "Dr. Seong-Hwan Jun joins the lab as a Research Assistant Professor, having completed his Ph.D. in Statistics at the University of British Columbia followed by postdoctoral research in the Computational Biology Program at Fred Hutchinson Cancer Research Center."
+author: "News"
+date: "2022-10-01"
+categories: [news, welcomes]
+image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

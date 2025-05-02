@@ -1,0 +1,10 @@
+---
+title: "Welcome Isar Nassiri!"
+description: "Dr. Isar Nassiri joins the lab having completed a PhD in Bioinformatics at the University of Tehran followed by a Researcher position at The Microsoft Research - University of Trento Centre for Computational and Systems Biology."
+author: "News"
+date: "2016-01-16"
+categories: [news, welcomes]
+#image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

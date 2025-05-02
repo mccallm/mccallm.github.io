@@ -1,0 +1,15 @@
+---
+title: "The role of P2Y12 in the kinetics of microglial self-renewal and maturation in the adult visual cortex in vivo"
+date: 2021-07-12
+author: ["Monique S Mendes", "Linh Le", "Jason Atlas", "Zachary Brehm", "Antonio Ladron-de-Guevara", "Evelyn Matei", "Cassandra Lamantia", "Matthew N McCall", "Ania K Majewska"] 
+publication: "eLife, **10**, _e61173_ (2021)."
+categories:
+  - "microglia"
+url_source: https://elifesciences.org/articles/61173
+url_preprint: 
+journ: "eLife"
+issue: 10
+page: e61173
+year: 2021
+pub_number: 
+---

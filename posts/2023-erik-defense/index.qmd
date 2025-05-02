@@ -1,0 +1,10 @@
+---
+title: "Erik VonKaenel successfully defended his thesis"
+description: "Erik VonKaenel is now Dr. Erik VonKaenel after successfully defending his PhD thesis."
+author: "News"
+date: "2023-05-15"
+categories: [news, defense]
+#image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

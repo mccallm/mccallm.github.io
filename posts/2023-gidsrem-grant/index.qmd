@@ -1,0 +1,19 @@
+---
+title: "GIDS-REM Fellowship R25 funded"
+description: "Our NIH/NHGRI R25 grant to develop the Genomic Intensive Data Science Research, Education and Mentorship (GIDS-REM) program has been funded."
+author: "News"
+date: "2023-05-01"
+categories: [news, grants]
+image: "/files/images/nhgri_logo.png"
+#css: /custom.css
+#draft: true
+---
+
+
+## Summary
+
+The Genomic Intensive Data Science Research, Education and Mentorship (GIDS-REM) program at the University of Rochester aims to increase the number of researchers with strong quantitative skills in the genomics workforce. The focus is on recruiting and retaining members of groups traditionally underrepresented in biomedical fields. The proposal aims to 1) create a new track in genomics data science in the Goergen Institute for Data Science Master’s program (GIDS-MS) and recruit a diverse group of scholars into the track; 2) build core competencies in genomics data science through curricular training, workshops, and research experiences; and 3) retain GIDS-REM fellows in the genomics workforce through mentoring and cohort building. The innovative features of this proposal combine with existing strengths in research, academics, and efforts to ensure diversity, equity, and inclusion at the University of Rochester. This proposal leverages the framework and resources for the existing GIDS-MS program and implements a new curriculum that trains students in theoretical and applied aspects of both data science and genomics. Through a partnership with the David T. Kearns Center for Leadership and Diversity, the targeted recruitment strategies will bring in diverse scholars from underrepresented groups as GIDS-REM fellows. The proposal implements a team mentoring approach that will connect fellows to genomics research advisors throughout the University of Rochester and its Medical Center and industry. This proposal applies the University of Rochester’s strengths in cancer genomics at the Wilmot Cancer Institute and translational genomic research at the Clinical and Translational Science Institute. Key aspects of the proposal are in its culturally responsive mentor training and strong community-building to create inclusive spaces that allow GIDS-REM fellows to thrive. These approaches will improve the retention of fellows in doctoral programs or in industry positions in the field of genomics. The effectiveness of the program will be assessed using quantitative and qualitative benchmarks, and instruments to evaluate mentor competency and student self-efficacy. The GIDS-REM program will not only have a direct impact on the fellows and their career directions, but will have a broad impact on the genomics community at the University of Rochester and beyond.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

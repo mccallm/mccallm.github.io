@@ -1,8 +1,8 @@
-    - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "/files/profiles/profile1.JPG"
-      title: "PI Name"
-      lastname: "Website"
+    - path: https://mccallm.github.io
+      image: "files/profiles/McCall-Photo.JPG"
+      title: "Matthew N. McCall"
+      lastname: "McCall"
 #      author: 
-      subtitle: "PI"
+      subtitle: "Principal Investigator"
 #      date: "2024-03-12"
-      categories: [Director] 
+      categories: [Principal Investigator] 

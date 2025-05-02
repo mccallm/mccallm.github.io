@@ -1,0 +1,10 @@
+---
+title: "Valeriia Sherina promoted to Statistics Leader"
+description: "Dr. Valeriia Sherina has been promoted to Statistics Leader at GSK."
+author: "News"
+date: "2021-04-06"
+categories: [news, promotions]
+#image: "/files/profiles/yun-zhang.png"
+#css: /custom.css
+#draft: true
+---

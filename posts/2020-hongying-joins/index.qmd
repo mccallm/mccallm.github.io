@@ -1,0 +1,10 @@
+---
+title: "Welcome Hongying Sun!"
+description: "Dr. Hongying Sun joins the lab having completed a PhD in Biology with focus on Bioinformatics and Computational Biology at the University of Rochester followed by a position as a Postdoctoral Research Associate in Biostatistics position at St. Jude Children’s Research Hospital."
+author: "News"
+date: "2020-08-16"
+categories: [news, welcomes]
+#image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

@@ -1,0 +1,15 @@
+---
+title: "Affymetrix GeneChip microarray preprocessing for multivariate analyses"
+date: 2011-12-31
+author: ["Matthew N. McCall", "Anthony Almudevar"] 
+publication: "Briefings in Bioinformatics, **13(5)**, _536–546_ (2012)."
+categories:
+  - "networks"
+url_source: https://academic.oup.com/bib/article/13/5/536/413792
+url_preprint: 
+journ: "Briefings in Bioinformatics"
+issue: 13(5)
+page: 536–546
+year: 2012
+pub_number: 
+---

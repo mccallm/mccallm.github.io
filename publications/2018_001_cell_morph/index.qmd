@@ -1,0 +1,15 @@
+---
+title: "Systematic exploration of cell morphological phenotypes associated with a transcriptomic query"
+date: 2018-07-16
+author: ["Isar Nassiri", "Matthew N. McCall"] 
+publication: "Nucleic Acids Research, **46(19)**, _e116_ (2018)."
+categories:
+  - "other"
+url_source: https://academic.oup.com/nar/article/46/19/e116/5054089
+url_preprint: 
+journ: "Nucleic Acids Research"
+issue: 46(19)
+page: e116
+year: 2018
+pub_number: 
+---

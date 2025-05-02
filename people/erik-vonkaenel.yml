@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/vonkaenelerik/
+#      image: ""
+      title: "Erik VonKaenel"
+      lastname: "VonKaenel"
+#      author: 
+      subtitle: "PhD Student"
+#      date: "2024-03-12"
+      categories: [PhD Student] 
+      started: "2020"
+      ended: "2023"

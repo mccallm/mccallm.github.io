@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/zachary-brehm/
+#      image: ""
+      title: "Zachary Brehm"
+      lastname: "Brehm"
+#      author: 
+      subtitle: "PhD Student"
+#      date: "2024-03-12"
+      categories: [PhD Student] 
+      started: "2018"
+      ended: "2023"

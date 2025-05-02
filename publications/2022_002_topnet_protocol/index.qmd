@@ -1,0 +1,15 @@
+---
+title: "Protocol to use TopNet for gene regulatory network modeling using gene expression data from perturbation experiments"
+date: 2022-12-16
+author: ["Helene R. McMurray", "Harry A. Stern", "Aslihan Ambeskovic", "Hartmut Land", "Matthew N. McCall"] 
+publication: "STAR Protocols, **3(4)**, _101737_ (2022)."
+categories:
+  - "networks"
+url_source: https://www.sciencedirect.com/science/article/pii/S2666166722006177
+url_preprint: 
+journ: "STAR Protocols"
+issue: 3(4)
+page: 101737
+year: 2022
+pub_number: 
+---

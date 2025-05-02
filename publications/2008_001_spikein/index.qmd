@@ -1,0 +1,15 @@
+---
+title: "Consolidated strategy for the analysis of microarray spike-in data"
+date: 2008-08-01
+author: ["Matthew N. McCall", "Rafael A. Irizarry"] 
+publication: "Nucleic Acids Research, **36(17)**, _e108_ (2008)."
+categories:
+  - "other"
+url_source: https://academic.oup.com/nar/article/36/17/e108/2410169
+url_preprint: 
+journ: "Nucleic Acids Research"
+issue: 16(17)
+page: e108
+year: 2008
+pub_number: 
+---

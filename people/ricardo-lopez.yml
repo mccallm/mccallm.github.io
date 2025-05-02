@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/ricardo-lópez-candelaria-42581a227/
+      image: "/files/profiles/ricardo-lopez.jpeg"
+      title: "Ricardo Lopez Candelaria"
+      lastname: "Candelaria"
+#      author: 
+      subtitle: "T32 Trainee"
+#      date: "2024-03-12"
+      categories: [T32 Trainee] 
+      started: "2023"
+      ended: ""

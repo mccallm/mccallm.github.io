@@ -1,0 +1,19 @@
+---
+title: "Youjia Zhang awarded Schwartz Discover Grant"
+description: "Youjia Zhang has been awarded a $5,000 Schwartz Discover Grant to support her research on microglia confocal image processing."
+author: "News"
+date: "2025-04-04"
+categories: [news, grants]
+image: "/files/images/sdg_logo.png"
+#css: /custom.css
+#draft: true
+---
+
+
+## Summary
+
+The Schwartz Discover Grant for Undergraduate Summer Research supports immersive, full-time summer research experiences for University of Rochester undergraduates in the School of Arts & Sciences and the Hajim School of Engineering. The goal of the program is to help students get involved in research early in their academic careers and enhance their competitiveness for future fellowships and other advanced research opportunities. 
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

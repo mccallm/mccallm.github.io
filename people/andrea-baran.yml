@@ -1,0 +1,10 @@
+    - path: https://www.urmc.rochester.edu/people/112359703-andrea-m-baran
+      image: "/files/profiles/andrea-baran.png"
+      title: "Andrea Baran"
+      lastname: "Baran"
+#      author: 
+      subtitle: "Senior Associate"
+#      date: "2024-03-12"
+      categories: [Senior Associate] 
+      started: "2024"
+      ended: ""

@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/valeriia-sherina/
+#      image: ""
+      title: "Valeriia Sherina"
+      lastname: "Sherina"
+#      author: 
+      subtitle: "PhD Student"
+#      date: "2024-03-12"
+      categories: [PhD Student] 
+      started: "2015"
+      ended: "2019"

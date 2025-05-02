@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/jmiahjones/
+#      image: ""
+      title: "Jeremiah Jones"
+      lastname: "Jones"
+#      author: 
+      subtitle: "Graduate Research Assistant"
+#      date: "2024-03-12"
+      categories: [Graduate Research Assistant] 
+      started: "2017"
+      ended: "2017"

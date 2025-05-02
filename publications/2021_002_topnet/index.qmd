@@ -1,0 +1,16 @@
+---
+title: "Gene network modeling via TopNet reveals functional dependencies between diverse tumor-critical mediator genes"
+date: 2021-12-21
+author: ["Helene R. McMurray", "Aslihan Ambeskovic", "Laurel A. Newman", "Jordan Aldersley", "Vijaya Balakrishnan", "Bradley Smith", "Harry A. Stern", "Hartmut Land", "Matthew N. McCall"] 
+publication: "Cell Reports, **37(12)**, _110136_ (2021)."
+categories:
+  - "networks"
+url_source: https://www.cell.com/cell-reports/fulltext/S2211-1247(21)01632-6
+url_preprint: 
+journ: "Cell Reports"
+issue: 37(12)
+page: 110136
+year: 2021
+image: "featured.jpeg"
+pub_number: 
+---

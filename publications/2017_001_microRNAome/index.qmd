@@ -1,0 +1,16 @@
+---
+title: "Toward the human cellular microRNAome"
+date: 2017-09-06
+author: ["Matthew N. McCall", "Min-Sik Kim", "Mohammed Adil", "Arun H. Patil", "Yin Lu", "Christopher J. Mitchell", "Pamela Leal-Rojas", "Jinchong Xu", "Manoj Kumar", "Valina L. Dawson", "Ted M. Dawson", "Alexander S. Baras", "Avi Z. Rosenberg", "Dan E. Arking", "Kathleen H. Burns", "Akhilesh Pandey", "Marc K. Halushka"] 
+publication: "Genome Research, **27**, _1769-1781_ (2017)."
+categories:
+  - "microRNA"
+url_source: https://genome.cshlp.org/content/27/10/1769.long
+url_preprint: 
+journ: "Genome Research"
+issue: 27
+page: 1769-1781
+year: 2017
+image: "featured.jpeg"
+pub_number: 
+---

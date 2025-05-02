@@ -1,0 +1,23 @@
+---
+title: "Microglia Imaging R01 funded"
+description: "Our NIH/NINDS R01 grant to develop statistical methods for confocal microscopy images of microglia has been funded."
+author: "News"
+date: "2024-03-14"
+categories: [news, grants]
+image: "/files/images/ninds_logo.png"
+#css: /custom.css
+#draft: true
+---
+
+
+## Summary
+
+Microglia are immune cells that act as the primary first-responding sentinels in the brain. In response to brain injury, infection, or disease, microglia rapidly react to attack intruders, remove neuronal debris, and restore home- ostasis. In addition to their immune role, microglia have been shown to be critical to normal brain development and function. Although direct comparisons between morphology and function are hard to make, it is clear that changes in microglial morphology correspond to different responses to external stimuli and internal functional states. Reactive microglia undergo a series of stereotyped morphological changes that grossly correspond to their different immune functions. Additionally, it has been shown that microglial morphology is altered with neuronal activity, demonstrating that changes in their physiological functions are tied to distinct morphologies, even in the absence of pathology. Analysis of alterations in microglial morphology can inform studies of neurodevelopment, neurodegenerative diseases, and the effects of environmental toxicants on brain function; however, currently we are unable to ascribed specific functions to morphological states. Improved methods of processing and analysis have the potential to remove this critical barrier and allow us to directly link morphological changes with their corresponding functional consequences.
+
+Confocal microscopy is used to capture digital images at the spatial resolution necessary to detect the morphol- ogy of individual microglia. These images are often processed using proprietary commercial software to extract individual cells. The morphology of these cells is then quantifying using Sholl Analysis, in which concentric circles are overlaid on the image and the number of microglial branches that intersect the circle at each distance from the soma are counted. The resulting curves are subsequently analyzed to obtain summary statistics, such as the maximum number of intersections observed. The majority of these summaries ignore the dependence between adjacent distances and lack a corresponding measure of uncertainty. Furthermore, current methods discard a vast amount of information present in both the Sholl curves and, to an even greater degree, in the digital images themselves. Finally, individual quantitative summaries are typically analyzed separately, ignoring the dependence between different aspects of microglial morphology and thereby reducing statistical power.
+
+We propose to develop statistical methods to model microglial morphology that fully leverage the wealth of information present in the imaging data and provide interpretable parameter estimates and corresponding measures of uncertainty. The overall goal of the proposed research is to develop statistical methodology that will lead to improved analysis of microglial images and uncover the changes in morphology that are most predictive of alterations in microglial function.
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

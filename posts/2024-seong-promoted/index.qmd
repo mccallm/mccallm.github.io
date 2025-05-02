@@ -1,0 +1,10 @@
+---
+title: "Seong-Hwan Jun promoted to Assistant Professor"
+description: "Dr. Seong-Hwan Jun has been promoted to a tenure-track Assistant Professor position in the Department of Biostatistics & Computational Biology at the University of Rochester."
+author: "News"
+date: "2024-01-01"
+categories: [news, promotions]
+image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

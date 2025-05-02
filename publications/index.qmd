@@ -1,0 +1,19 @@
+---
+title: "Selected Publications"
+listing:
+  - id: pubs
+    template: ../_ejs/publications.ejs
+    contents: ../publications/**/*.qmd
+    sort: "date desc"
+    page-size: 30
+    filter-ui: true
+    fields: [image, date, categories, title, publication, author, url_source]
+page-layout: full
+---
+
+<hr>
+
+:::{#pubs}
+:::
+
+

@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/monish-shah-9359b9214/
+#      image: ""
+      title: "Monish Shah"
+      lastname: "Shah"
+#      author: 
+      subtitle: "Undergraduate Student"
+#      date: "2024-03-12"
+      categories: [Undergraduate Student] 
+      started: "2023"
+      ended: "2024"

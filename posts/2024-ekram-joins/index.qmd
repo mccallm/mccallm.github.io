@@ -1,0 +1,10 @@
+---
+title: "Welcome Ekram Hossain!"
+description: "Ekram Hossain joins the lab as a Research Data Engineer II, having recently completed his M.S. in Computer Science at the University of Rochester."
+author: "News"
+date: "2024-09-22"
+categories: [news, welcomes]
+image: "/files/profiles/ekram-hossain.jpeg"
+#css: /custom.css
+#draft: true
+---

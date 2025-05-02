@@ -5,60 +5,21 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Quarto Academic</title>
-<link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
-<atom:link href="https://drganghe.github.io/quarto-academic-website-template/posts.xml" rel="self" type="application/rss+xml"/>
-<description>Quarto Academic Website Template adapted by Dr. Gang He</description>
+<title>McCall Research Group</title>
+<link>https://mccallm.github.io/posts.html</link>
+<atom:link href="https://mccallm.github.io/posts.xml" rel="self" type="application/rss+xml"/>
+<description>McCall Research Group Website</description>
 <image>
 <url>https://quarto.org/quarto.png</url>
-<title>Quarto Academic</title>
-<link>https://drganghe.github.io/quarto-academic-website-template/posts.html</link>
+<title>McCall Research Group</title>
+<link>https://mccallm.github.io/posts.html</link>
 </image>
-<generator>quarto-1.6.40</generator>
-<lastBuildDate>Tue, 15 Oct 2024 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.5.57</generator>
+<lastBuildDate>Fri, 04 Apr 2025 04:00:00 GMT</lastBuildDate>
 <item>
-  <title>Quarto Academic Website Examples and Tips</title>
-  <link>https://drganghe.github.io/quarto-academic-website-template/</link>
-  <description>Examples and tips for Quarto Academic Website</description>
-  <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/</guid>
-  <pubDate>Tue, 15 Oct 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder4.JPG" medium="image"/>
-</item>
-<item>
-  <title>Event item</title>
-  <dc:creator>Event </dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</link>
-  <description><![CDATA[ 
-
-
-
-
-<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-
- ]]></description>
-  <category>event</category>
-  <category>presentation</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/event-title/</guid>
-  <pubDate>Tue, 03 Sep 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder2.JPG" medium="image"/>
-</item>
-<item>
-  <title>News item</title>
+  <title>Youjia Zhang awarded Schwartz Discover Grant</title>
   <dc:creator>News </dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</link>
+  <link>https://mccallm.github.io/posts/2025-youjia-sdg/</link>
   <description><![CDATA[ 
 
 
@@ -66,7 +27,7 @@ https://quarto.org/docs/authoring/includes.html
 
 <section id="summary" class="level2">
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>About the news</p>
+<p>The Schwartz Discover Grant for Undergraduate Summer Research supports immersive, full-time summer research experiences for University of Rochester undergraduates in the School of Arts &amp; Sciences and the Hajim School of Engineering. The goal of the program is to help students get involved in research early in their academic careers and enhance their competitiveness for future fellowships and other advanced research opportunities.</p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -83,71 +44,478 @@ https://quarto.org/docs/authoring/includes.html
 
  ]]></description>
   <category>news</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/news-title/</guid>
-  <pubDate>Mon, 24 Jun 2024 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
+  <category>grants</category>
+  <guid>https://mccallm.github.io/posts/2025-youjia-sdg/</guid>
+  <pubDate>Fri, 04 Apr 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/images/sdg_logo.png" medium="image" type="image/png" height="146" width="144"/>
 </item>
 <item>
-  <title>Can quantum-mechanical description of physical reality be considered complete?</title>
-  <dc:creator>Albert Einstein</dc:creator>
-  <dc:creator>Boris Podolsky</dc:creator>
-  <dc:creator>Nathan Rosen</dc:creator>
-  <link>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</link>
+  <title>Wilmot Cancer Institute earns NCI designation</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2025-nci-designation/</link>
   <description><![CDATA[ 
 
 
 
 
-<!--Include academic icons or bottons-->
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>To meet the rigors of the NCI designation process, which are unmatched in medicine, Wilmot restructured its entire organization, developed a bold strategic plan, doubled its research funding, and adopted a workplace culture that emphasizes collaboration over individual performance. It also initiated new programs in education, training, and community outreach and went on a multiyear recruiting frenzy that brought in 30 oncology stars—many of whom were at NCI-designated centers—to lead basic and clinical research teams. These moves culminated in a demanding, monthslong evaluation process—including an on-site NCI visit—which scrutinized a 1,300-page application describing every aspect of the cancer center’s operations, leadership, strategy, and research programs.</p>
+<!--Include social share buttons-->
 <!-- 
-Load Academicons v1: https://jpswalsh.github.io/academicons/
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
 -->
-<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
-<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
-<!---
-The following code are needed to show dimension citation and altmetrics.
-https://api.altmetric.com/embeds.html
-https://badge.dimensions.ai/
---->
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.</p>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777">paper</a></p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1103/PhysRev.47.777"></div>
-
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{einstein1935,
-  author = {Einstein, Albert and Podolsky, Boris and Rosen, Nathan},
-  title = {Can Quantum-Mechanical Description of Physical Reality Be
-    Considered Complete?},
-  journal = {Physical Review},
-  volume = {47},
-  number = {7938},
-  pages = {777-80},
-  date = {1935-05-15},
-  url = {https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777},
-  doi = {10.1103/PhysRev.47.777},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-einstein1935" class="csl-entry quarto-appendix-citeas">
-Einstein, Albert, Boris Podolsky, and Nathan Rosen. 1935. <span>“Can
-Quantum-Mechanical Description of Physical Reality Be Considered
-Complete?”</span> <em>Physical Review</em> 47 (7938): 777–80. <a href="https://doi.org/10.1103/PhysRev.47.777">https://doi.org/10.1103/PhysRev.47.777</a>.
-</div></div></section></div> ]]></description>
-  <category>paper</category>
-  <guid>https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/</guid>
-  <pubDate>Wed, 15 May 1935 04:00:00 GMT</pubDate>
-  <media:content url="https://drganghe.github.io/quarto-academic-website-template/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
+ ]]></description>
+  <category>news</category>
+  <category>grants</category>
+  <guid>https://mccallm.github.io/posts/2025-nci-designation/</guid>
+  <pubDate>Tue, 18 Mar 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/images/nci_designation.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Welcome Ekram Hossain!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2024-ekram-joins/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>welcomes</category>
+  <guid>https://mccallm.github.io/posts/2024-ekram-joins/</guid>
+  <pubDate>Sun, 22 Sep 2024 04:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/profiles/ekram-hossain.jpeg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Microglia Imaging R01 funded!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2024-microglia-grant/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>Microglia are immune cells that act as the primary first-responding sentinels in the brain. In response to brain injury, infection, or disease, microglia rapidly react to attack intruders, remove neuronal debris, and restore home- ostasis. In addition to their immune role, microglia have been shown to be critical to normal brain development and function. Although direct comparisons between morphology and function are hard to make, it is clear that changes in microglial morphology correspond to different responses to external stimuli and internal functional states. Reactive microglia undergo a series of stereotyped morphological changes that grossly correspond to their different immune functions. Additionally, it has been shown that microglial morphology is altered with neuronal activity, demonstrating that changes in their physiological functions are tied to distinct morphologies, even in the absence of pathology. Analysis of alterations in microglial morphology can inform studies of neurodevelopment, neurodegenerative diseases, and the effects of environmental toxicants on brain function; however, currently we are unable to ascribed specific functions to morphological states. Improved methods of processing and analysis have the potential to remove this critical barrier and allow us to directly link morphological changes with their corresponding functional consequences.</p>
+<p>Confocal microscopy is used to capture digital images at the spatial resolution necessary to detect the morphol- ogy of individual microglia. These images are often processed using proprietary commercial software to extract individual cells. The morphology of these cells is then quantifying using Sholl Analysis, in which concentric circles are overlaid on the image and the number of microglial branches that intersect the circle at each distance from the soma are counted. The resulting curves are subsequently analyzed to obtain summary statistics, such as the maximum number of intersections observed. The majority of these summaries ignore the dependence between adjacent distances and lack a corresponding measure of uncertainty. Furthermore, current methods discard a vast amount of information present in both the Sholl curves and, to an even greater degree, in the digital images themselves. Finally, individual quantitative summaries are typically analyzed separately, ignoring the dependence between different aspects of microglial morphology and thereby reducing statistical power.</p>
+<p>We propose to develop statistical methods to model microglial morphology that fully leverage the wealth of information present in the imaging data and provide interpretable parameter estimates and corresponding measures of uncertainty. The overall goal of the proposed research is to develop statistical methodology that will lead to improved analysis of microglial images and uncover the changes in morphology that are most predictive of alterations in microglial function.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>grants</category>
+  <guid>https://mccallm.github.io/posts/2024-microglia-grant/</guid>
+  <pubDate>Thu, 14 Mar 2024 04:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/images/ninds_logo.png" medium="image" type="image/png" height="33" width="144"/>
+</item>
+<item>
+  <title>Matt has been granted tenure!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2024-matt-tenure/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>promotions</category>
+  <guid>https://mccallm.github.io/posts/2024-matt-tenure/</guid>
+  <pubDate>Thu, 01 Feb 2024 05:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/profiles/McCall-Photo.JPG" medium="image"/>
+</item>
+<item>
+  <title>Ernesto receives Marie Sklodowska-Curie Fellowship!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2024-ernesto-grant/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>Postdoctoral associate Ernesto Aparicio-Puerta, hosted by the McCall group, has been awarded the European Commission’s highly competitive Marie Sklodowska-Curie Postdoctoral Global Fellowship. The selection process evaluates the applicant’s merits as well as the scientific quality of the host laboratory and the proposed project.</p>
+<p>Ernesto’s miRAQEL project aims to optimize several aspects of microRNA sequencing analysis to overcome the limitations of currently available methods. Changes in microRNA expression have been linked to numerous diseases so improving the estimation of microRNA levels has the potential to boost our understanding of their roles in health and disease. The fellowship provides additional funding to establish collaborations with other leading labs in the field including Michael Hackenberg’s group (University of Granada) who will host Ernesto for the last 12 moths of this fellowship.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>grants</category>
+  <guid>https://mccallm.github.io/posts/2024-ernesto-grant/</guid>
+  <pubDate>Thu, 01 Feb 2024 05:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/images/ec_logo.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Seong-Hwan Jun promoted to Assistant Professor</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2024-seong-promoted/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>promotions</category>
+  <guid>https://mccallm.github.io/posts/2024-seong-promoted/</guid>
+  <pubDate>Mon, 01 Jan 2024 05:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/profiles/seong-hwan-jun.png" medium="image" type="image/png" height="165" width="144"/>
+</item>
+<item>
+  <title>Erik VonKaenel successfully defended his thesis!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2023-erik-defense/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>farewells</category>
+  <guid>https://mccallm.github.io/posts/2023-erik-defense/</guid>
+  <pubDate>Mon, 15 May 2023 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>GIDS-REM Fellowship R25 funded!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2023-gidsrem-grant/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>The Genomic Intensive Data Science Research, Education and Mentorship (GIDS-REM) program at the University of Rochester aims to increase the number of researchers with strong quantitative skills in the genomics workforce. The focus is on recruiting and retaining members of groups traditionally underrepresented in biomedical fields. The proposal aims to 1) create a new track in genomics data science in the Goergen Institute for Data Science Master’s program (GIDS-MS) and recruit a diverse group of scholars into the track; 2) build core competencies in genomics data science through curricular training, workshops, and research experiences; and 3) retain GIDS-REM fellows in the genomics workforce through mentoring and cohort building. The innovative features of this proposal combine with existing strengths in research, academics, and efforts to ensure diversity, equity, and inclusion at the University of Rochester. This proposal leverages the framework and resources for the existing GIDS-MS program and implements a new curriculum that trains students in theoretical and applied aspects of both data science and genomics. Through a partnership with the David T. Kearns Center for Leadership and Diversity, the targeted recruitment strategies will bring in diverse scholars from underrepresented groups as GIDS-REM fellows. The proposal implements a team mentoring approach that will connect fellows to genomics research advisors throughout the University of Rochester and its Medical Center and industry. This proposal applies the University of Rochester’s strengths in cancer genomics at the Wilmot Cancer Institute and translational genomic research at the Clinical and Translational Science Institute. Key aspects of the proposal are in its culturally responsive mentor training and strong community-building to create inclusive spaces that allow GIDS-REM fellows to thrive. These approaches will improve the retention of fellows in doctoral programs or in industry positions in the field of genomics. The effectiveness of the program will be assessed using quantitative and qualitative benchmarks, and instruments to evaluate mentor competency and student self-efficacy. The GIDS-REM program will not only have a direct impact on the fellows and their career directions, but will have a broad impact on the genomics community at the University of Rochester and beyond.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>grants</category>
+  <guid>https://mccallm.github.io/posts/2023-gidsrem-grant/</guid>
+  <pubDate>Mon, 01 May 2023 04:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/images/nhgri_logo.png" medium="image" type="image/png" height="29" width="144"/>
+</item>
+<item>
+  <title>Welcome Seong-Hwan Jun!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2022-seong-joins/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>welcomes</category>
+  <guid>https://mccallm.github.io/posts/2022-seong-joins/</guid>
+  <pubDate>Sat, 01 Oct 2022 04:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/profiles/seong-hwan-jun.png" medium="image" type="image/png" height="165" width="144"/>
+</item>
+<item>
+  <title>MicroRNA-seq R01 funded!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2021-microRNA-grant/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>MicroRNAs (miRNAs) are a class of small (18-24 nucleotide) RNAs that are essential regulators of gene expression, which act within the RNA-induced silencing complex (RISC) to bind mRNAs and suppress translation. Alterations in miRNA expression have been shown to disrupt entire cellular pathways, substantially contributing to a variety of human diseases. Despite nearly 25 years of research, miRNAs remain difficult to measure due to their short length, relatively small number, sequence similarity, and difficulty to isolate from other small RNA fragments. While qPCR- and microarray-based miRNA assays are still widely used, the majority of recent studies use small RNA-seq (sRNA-seq) because it allows for the quantification of isomiRs (miRNA isoforms) and the possibility of identifying novel miRNAs. The processing of reads generated from sRNA-seq data globally distinguish between miRNA reads and those from other small RNAs, but do not necessarily capture the full spectrum of miRNA variation. Subsequent statistical analyses of processed sRNA-seq data are still performed using methods developed for mRNA-seq data despite the fact that sRNA-seq data violate several of the assumptions of these methods. Specifically, methods for mRNA-seq data assume approximate independence between feature counts; however, the small total number of miRNAs and presence of a small number of very highly expressed miRNAs result in a lack of independence between miRNA counts. Additionally, normalization methods for mRNA-seq data assume either the overall level of transcription is constant across samples or an equal number of features are over- and under-expressed when comparing any two samples, neither of which hold for sRNA-seq data. The development of statistical methods that address the challenges of sRNA-seq data represents a critical need for miRNA research.</p>
+<p>Our long-term goal is to advance miRNA research by developing statistical methods that are tailored to the specific complexities of miRNA expression data. The overall objective of this application is to improve the analysis of sRNA-seq data by developing statistical methods that account for challenges specific to sRNA-seq data and outperform methods designed for mRNA-seq data. This addresses an urgent need for statistical methods to appropriately analyze sRNA-seq data, which are now routinely generated by large consortia such as TCGA and FANTOM. The rationale that underlies the proposed research is that methods that explicitly address the challenges inherent in measuring miRNAs are necessary to fully elucidate the role miRNAs play in many human disease processes.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>grants</category>
+  <guid>https://mccallm.github.io/posts/2021-microRNA-grant/</guid>
+  <pubDate>Mon, 13 Sep 2021 04:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/images/nigms_logo.png" medium="image" type="image/png" height="31" width="144"/>
+</item>
+<item>
+  <title>Valeriia Sherina successfully defended her thesis!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2019-val-defense/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>farewells</category>
+  <guid>https://mccallm.github.io/posts/2019-val-defense/</guid>
+  <pubDate>Fri, 10 May 2019 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Matt has been promoted to Associate Professor!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2019-matt-promoted/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>promotions</category>
+  <guid>https://mccallm.github.io/posts/2019-matt-promoted/</guid>
+  <pubDate>Tue, 01 Jan 2019 05:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/profiles/mnm-headshot-2b.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>Yun Zhang successfully defended her thesis!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2018-yun-defense/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>farewells</category>
+  <guid>https://mccallm.github.io/posts/2018-yun-defense/</guid>
+  <pubDate>Thu, 31 May 2018 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Valeriia Sherina receives the Hall Fellowship!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2018-val-hall-fellowship/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>PhD candidate Valeriia Sherina was named as the 2017-2018 recipient of the William Jackson Hall Graduate Student Fellowship Award. This merit-based fellowship intends to recognize one or more Statistics doctoral students in their last semester or year of study whose academic record reflects the major cornerstones of Professor Hall’s distinguished career.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>awards</category>
+  <guid>https://mccallm.github.io/posts/2018-val-hall-fellowship/</guid>
+  <pubDate>Mon, 01 Jan 2018 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Valeriia Sherina receives ENAR Student Paper Award!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2017-val-enar-award/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>Valeriia Sherina has been selected to receive one of the International Biometric Society Eastern North American Region’s (ENAR) Distinguished Student Paper Awards for the 2018 ENAR Spring Meeting in Atlanta, GA. The award recognizes your excellent paper entitled Statistical Approaches to Decreasing the Discrepancy of Non-detects in qPCR Data.</p>
+<p>The travel award covers up to $650 of the expenses associated with travel and lodging for Val to attend the Spring Meeting in Atlanta, GA. As an award winner, she will present her work at an oral contributed paper session, be invited to attend the ENAR President’s Reception and publicly receive the award at the beginning of the ENAR President’s Invited Address session.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>awards</category>
+  <guid>https://mccallm.github.io/posts/2017-val-enar-award/</guid>
+  <pubDate>Mon, 04 Dec 2017 05:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/images/enar_logo.png" medium="image" type="image/png" height="30" width="144"/>
+</item>
+<item>
+  <title>Matt receives GSS Advocacy Award!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2015-matt-grad-advocacy/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>Dr.&nbsp;Matthew N. McCall is this year’s recipient of the Graduate Student Society (GSS) Advocacy Award, in recognition of his significant contributions in promoting excellence in the various realms of graduate education through participation, facilitation, and promotion of GSS goals and events.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>awards</category>
+  <guid>https://mccallm.github.io/posts/2015-matt-grad-advocacy/</guid>
+  <pubDate>Wed, 09 Sep 2015 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>The McCall Research Group has officially begun!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2014-matt-joins/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>promotions</category>
+  <guid>https://mccallm.github.io/posts/2014-matt-joins/</guid>
+  <pubDate>Mon, 01 Sep 2014 04:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/profiles/mnm-headshot-2b.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>K99/R00 funded!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2013-K99-R00-grant/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>Advances in genomic technology have led to the discovery of numerous genes whose expression differs between cellular conditions; however, genes do not act in isolation, rather they act together in complex networks that drive cellular function. By considering the interactions between genes (and gene products), one gains a more in-depth understanding of the underlying cellular mechanisms. Estimation of these gene regulatory networks is necessary to understand cellular mechanisms, detect differences between cell types, and predict cellular response to interventions. Cancer progression has been shown to produce drastic changes in genetic networks critical to normal cellular function. Some oncogenic mutations produce self-sustaining alterations in the network structure such that removal of the original mutation does not restore normal cellular function. This suggests that identifying the original oncogenic mutation may not be sufficient for a targeted intervention; rather, a detailed understanding of the gene regulatory networks present in both normal and malignant cells may be necessary. Gene perturbation experiments are the primary tool to investigate gene regulatory networks and predict cellular response to interventions. Unfortunately, current network estimation algorithms are unable to adequately reconstruct gene networks from expression data. This is not surprising given that most network estimation algorithms function modularly and disregard uncertainty in previous steps. The overall goals of the proposed research are: (1) to improve the estimation of gene regulatory networks from perturbation experiments, by using methods that explicitly model and incorporate uncertainty in each step of the process, and (2) to use these estimated networks to predict cellular response to intervention. My long term goal is to pursue independent research into complex cellular networks drawing on the fields of statistics, systems biology, and genetics. This Award will provide support to obtain the expertise required to address the proposed research aims and transition to an independent research career. This will be accomplished through a combination of coursework, mentorship, and research experience. Of particular importance is continuing my education in molecular biology and cancer genomics through formal coursework and instruction in genomic laboratory techniques. This will provide the background necessary to work closely with biomedical investigators developing statistical methodology that addresses cutting-edge challenges in genomic research. Regular interaction with my mentors and collaborators experts in Statistics, Computational Biology, Biomedical Genetics, and Cancer Research will provide a rich environment in which I can obtain the necessary skills to successfully transition to independent research.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>grants</category>
+  <guid>https://mccallm.github.io/posts/2013-K99-R00-grant/</guid>
+  <pubDate>Fri, 27 Sep 2013 04:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/images/nhgri_logo.png" medium="image" type="image/png" height="29" width="144"/>
 </item>
 </channel>
 </rss>

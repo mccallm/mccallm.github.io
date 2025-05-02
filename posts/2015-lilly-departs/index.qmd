@@ -1,0 +1,10 @@
+---
+title: "Farewell Lilly Xie!"
+description: "Dr. Qingyan (Lilly) Xie has accepted a position as a Data Scientist at Massachusetts General Hospital."
+author: "News"
+date: "2015-11-30"
+categories: [news, farewells]
+#image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

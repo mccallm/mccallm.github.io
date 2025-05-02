@@ -1,0 +1,10 @@
+---
+title: "Welcome Ernesto Aparicio-Puerta!"
+description: "Dr. Ernesto Aparicio-Puerta joins the lab having completed a PhD in Biomedicine at the University of Granada followed by a position as a Postdoctoral Researcher in Clinical Bioinformatics at Saarland University."
+author: "News"
+date: "2023-11-29"
+categories: [news, welcomes]
+#image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

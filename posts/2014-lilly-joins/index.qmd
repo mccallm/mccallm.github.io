@@ -1,0 +1,10 @@
+---
+title: "Welcome Qingyan (Lilly) Xie!"
+description: "Dr. Qingyan (Lilly) Xie joins the lab as a Postdoctoral Scholar, having completed her Ph.D. in Computer Science at the University of Cincinati followed by a Lecturer postion at Rochester Institute of Technology."
+author: "News"
+date: "2014-11-30"
+categories: [news, welcomes]
+#image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

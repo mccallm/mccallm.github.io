@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/michael-lansford-86303b25b/
+#      image: ""
+      title: "Michael Lansford"
+      lastname: "Lansford"
+#      author: 
+      subtitle: "Undergraduate Student"
+#      date: "2024-03-12"
+      categories: [Undergraduate Student] 
+      started: "2019"
+      ended: "2021"

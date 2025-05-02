@@ -1,0 +1,10 @@
+---
+title: "Zachary Brehm successfully defended his thesis"
+description: "Zachary Brehm is now Dr. Zachary Brehm after successfully defending his PhD thesis."
+author: "News"
+date: "2023-11-16"
+categories: [news, defense]
+#image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

@@ -1,0 +1,15 @@
+---
+title: "On Non-Detects in qPCR Data"
+date: 2014-04-23
+author: ["Matthew N. McCall", "Helene R. McMurray", "Hartmut Land", "Anthony Almudevar"] 
+publication: "Bioinformatics, **30(16)**, _2310–2316_ (2014)."
+categories:
+  - "qpcr"
+url_source: https://academic.oup.com/bioinformatics/article/30/16/2310/2748188
+url_preprint: 
+journ: "Bioinformatics"
+issue: 30(16)
+page: 2310-2316
+year: 2014
+pub_number: 
+---

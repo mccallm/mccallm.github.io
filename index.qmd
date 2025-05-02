@@ -1,7 +1,7 @@
 ---
-title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
-image: "files/profiles/profile1.JPG"
+title: "Matthew N. McCall, PhD"
+description-meta: "McCall Research Group"
+image: "files/profiles/McCall-Photo.JPG"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -13,35 +13,29 @@ about:
   image-width: 70%
   links:
     - icon: sun
-      text: Lab
-      href: https://www.github.com
+      text: My GitHub
+      href: https://github.com/mccallm
+      target: _blank
+    - icon: sun
+      text: Lab GitHub
+      href: https://github.com/mccall-group
       target: _blank
     - icon: globe
       text: Uprofile
-      href: https://baruch.cuny.edu
+      href: https://www.urmc.rochester.edu/biostat/people/faculty/mccall
       target: _blank
     - icon: envelope
       text: E-mail
-      href: mailto:email@gmail.com    
+      href: mailto:mccallm@gmail.com    
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/matthew-mccall-8a3b405/
       target: _blank
-    - icon: youtube
-      text: YouTube
-      href: https://www.youtube.com     
-      target: _blank 
     - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
-      href: https://orcid.org
-      target: _blank
-    - text: "{{< ai clarivate >}} Web of Science"
-      href: https://www.webofscience.com  
-      target: _blank
-    - text: "{{< ai scopus >}} Scopus"
-      href: https://www.scopus.com
+      href: https://orcid.org/0000-0002-2473-0943
       target: _blank
     - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com
+      href: https://scholar.google.com/citations?user=aaDwtw0AAAAJ
       target: _blank
 #    - text: "{{< ai researchgate >}} Research Gate"
 #      href: https://www.researchgate.net
@@ -67,30 +61,18 @@ listing:
 
 :::{#hero-heading}
 
-I'm a [Quarto Academeic Website Template](https://github.com/drganghe/quarto-academic-website-template) adapted by [Dr. Gang He](http://drganghe.github.io).
-
-I'm a template that you can fork to build your own website with easy adaptation and deployment.
-
-1. Star this repository so you can easily come back to the template  
-1. Folk this tempate and rename it to `yourgithubusername.github.io`  
-1. Update and edit `_quarto.yml` file for website setup  
-1. Update and add contents to `/posts`, `teaching.qmd`, `projects.yml`, and `people.qmd` and `/people` as needed.
-1. [Render and preview](https://quarto.org/docs/websites/) your website and [publish](https://quarto.org/docs/publishing/github-pages.html) it to your GitHub.
-1. Polish and fix any issues  
-1. Enjoy your website!
-
-## Experience
-
-- Researcher, Univerisity
+Matthew N. McCall is a tenured associate professor of Biostatistics & Computational Biology, associate professor of Biomedical Genetics, and affiliated faculty of the Goergen Institute for Data Science at the University of Rochester. He is director of the Statistics PhD program, co-director of the Wilmot Cancer Institute Biostatistics and Bioinformatics Shared Resource, and associate director of the Environmental Health Biostatistics Training Grant. 
 
 ## Education
 
-- PhD, Univerisity
+- Ph.D., Biostatistics, Johns Hopkins Bloomberg School of Public Health (2010)
+- M.H.S., Bioinformatics, Johns Hopkins Bloomberg School of Public Health (2010)
+- B.S., Statistics, University of Michigan (2004)
 
 :::
 
 ## Recent Posts
-Check out the latest &nbsp;[Papers](posts.qmd#category=paper)&nbsp;, &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
+Check out the latest &nbsp;[News](posts.qmd#category=news)&nbsp;, &nbsp;[Events](posts.qmd#category=event)&nbsp;, and &nbsp;[More »](/posts.qmd)
 
 :::{#recent-posts}
 :::

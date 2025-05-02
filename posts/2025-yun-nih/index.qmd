@@ -1,0 +1,10 @@
+---
+title: "Yun Zhang has accepted a position at the National Library of Medicine (NLM)"
+description: "Dr. Yun (Renee) Zhang has accepted a Tenure-track Investigator position in the Division of Intramural Research (DIR) of the National Library of Medicine (NLM)."
+author: "News"
+date: "2024-12-01"
+categories: [news, promotions]
+image: "/files/profiles/yun-zhang.png"
+#css: /custom.css
+#draft: true
+---

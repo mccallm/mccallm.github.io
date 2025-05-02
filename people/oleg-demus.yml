@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/oleg-demus/
+#      image: ""
+      title: "Oleg Demus"
+      lastname: "Demus"
+#      author: 
+      subtitle: "Undergraduate Student"
+#      date: "2024-03-12"
+      categories: [Undergraduate Student] 
+      started: "2018"
+      ended: "2018"

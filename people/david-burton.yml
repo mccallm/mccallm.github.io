@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/david-burton-data-science/
+#      image: ""
+      title: "David Burton"
+      lastname: "Burton"
+#      author: 
+      subtitle: "Graduate Research Assistant"
+#      date: "2024-03-12"
+      categories: [Graduate Research Assistant] 
+      started: "2018"
+      ended: "2022"

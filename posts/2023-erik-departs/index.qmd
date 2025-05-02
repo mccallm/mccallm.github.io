@@ -1,0 +1,10 @@
+---
+title: "Farewell Erik VonKaenel!"
+description: "Dr. Erik VonKaenel has accepted a position as a Data Scientist at Pacific Northwest National Labs."
+author: "News"
+date: "2023-08-01"
+categories: [news, farewells]
+#image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

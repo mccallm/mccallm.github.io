@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/jhreb/
+#      image: ""
+      title: "Jeffrey Hrebenach"
+      lastname: "Hrebenach"
+#      author: 
+      subtitle: "Undergraduate Student"
+#      date: "2024-03-12"
+      categories: [Undergraduate Student] 
+      started: "2015"
+      ended: "2017"

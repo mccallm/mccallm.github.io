@@ -1,0 +1,10 @@
+---
+title: "Hopngying returns to URMC as an Assistant Professor"
+description: "Dr. Hongying Sun has accepted an Assistant Professor position in the Supportive Care in Cancer Group within the Department of Surgery at the University of Rochester Medical Center."
+author: "News"
+date: "2022-09-01"
+categories: [news, promotions]
+#image: "/files/profiles/mnm-headshot-2b.jpg"
+#css: /custom.css
+#draft: true
+---

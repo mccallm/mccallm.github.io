@@ -1,0 +1,15 @@
+---
+title: "The Gene Expression Barcode: leveraging public data repositories to begin cataloging the human and murine transcriptomes"
+date: 2010-12-16
+author: ["Matthew N. McCall", "Karan Uppal", "Harris A. Jaffee", "Michael J. Zilliox", "Rafael A. Irizarry"] 
+publication: "Nucleic Acids Research, **39**, _D1011–D1015_ (2011)."
+categories:
+  - "other"
+url_source: https://academic.oup.com/nar/article/39/suppl_1/D1011/2507877
+url_preprint: 
+journ: "Nucleic Acids Research"
+issue: 38
+page: D1011–D1015
+year: 2011
+pub_number: 
+---

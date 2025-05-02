@@ -1,0 +1,10 @@
+---
+title: "Farewell Yun Zhang!"
+description: "Dr. Yun (Renee) Zhang has accepted a position as a Staff Scientist at the J. Craig Venter Institute."
+author: "News"
+date: "2018-07-01"
+categories: [news, farewells]
+#image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

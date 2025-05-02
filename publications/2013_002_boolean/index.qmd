@@ -1,0 +1,15 @@
+---
+title: "On the underlying assumptions of threshold Boolean networks as a model for genetic regulatory network behavior"
+date: 2013-12-10
+author: ["Van Tran", "Matthew N. McCall", "Helene R. McMurray", "Anthony Almudevar"] 
+publication: "Frontiers in Genetics, **4**, _263_ (2013)."
+categories:
+  - "networks"
+url_source: https://www.frontiersin.org/journals/genetics/articles/10.3389/fgene.2013.00263/full
+url_preprint: 
+journ: "Frontiers in Genetics"
+issue: 4
+page: 263
+year: 2013
+pub_number: 
+---

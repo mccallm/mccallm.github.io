@@ -1,0 +1,20 @@
+---
+title: ""
+author: ["Names in quotes", "Separate by commas"]
+publication: "Journal, **issue**, _page_ (2024)"
+# categories: 
+#   - "microRNA"
+#   - "microglia"
+#   - "networks"
+#   - "tissue-variation"
+#   - "qpcr"
+#   - "other"
+url_source: 
+url_preprint: 
+journ: "Journal"
+issue: issue
+page: page
+year: 2025
+image: ""
+pub_number: 
+---

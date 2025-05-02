@@ -1,0 +1,10 @@
+---
+title: "Farewell Valeriia Sherina!"
+description: "Dr. Valeriia Sherina has accepted a position as a Principal Statistician at GSK."
+author: "News"
+date: "2018-11-01"
+categories: [news, farewells]
+#image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

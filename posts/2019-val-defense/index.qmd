@@ -1,0 +1,10 @@
+---
+title: "Valeriia Sherina successfully defended her thesis"
+description: "Valeriia Sherina is now Dr. Valeriia Sherina after successfully defending her PhD thesis."
+author: "News"
+date: "2019-05-10"
+categories: [news, defense]
+#image: "/files/profiles/seong-hwan-jun.png"
+#css: /custom.css
+#draft: true
+---

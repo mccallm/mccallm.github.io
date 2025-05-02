@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/frank-gonzalez-75b3651aa/
+#      image: ""
+      title: "Frank Gonzalez"
+      lastname: "Gonzalez"
+#      author: 
+      subtitle: "Undergraduate Student"
+#      date: "2024-03-12"
+      categories: [Undergraduate Student] 
+      started: "2020"
+      ended: "2021"

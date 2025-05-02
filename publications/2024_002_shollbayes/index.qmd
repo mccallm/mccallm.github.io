@@ -1,0 +1,16 @@
+---
+title: "A model-based hierarchical Bayesian approach to Sholl analysis"
+date: 2024-04-02
+author: ["Erik VonKaenel", "Alexis Feidler", "Rebecca Lowery", "Katherine Andersh", "Tanzy Love", "Ania Majewska",  "Matthew N McCall"] 
+publication: "Bioinformatics, **40**, _4_ (2024)."
+categories:
+  - "microglia"
+url_source: https://academic.oup.com/bioinformatics/article/40/4/btae156/7633407
+url_preprint: 
+journ: "Bioinformatics"
+issue: 40
+page: 4
+year: 2024
+image: "featured.jpeg"
+pub_number: 
+---

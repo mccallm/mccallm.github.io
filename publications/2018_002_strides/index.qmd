@@ -1,0 +1,15 @@
+---
+title: "Big Strides in Cellular MicroRNA Expression"
+date: 2018-01-17
+author: ["Marc K. Halushka", "Bastian Fromm", "Kevin J. Peterson", "Matthew N. McCall"] 
+publication: "Trends in Genetics, **34(3)**, _165-167_ (2018)."
+categories:
+  - "microRNA"
+url_source: https://www.sciencedirect.com/science/article/pii/S0168952517302354
+url_preprint: 
+journ: "Trends in Genetics"
+issue: 34(3)
+page: 165-167
+year: 2018
+pub_number: 
+---

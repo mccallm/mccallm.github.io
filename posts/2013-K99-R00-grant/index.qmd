@@ -1,0 +1,19 @@
+---
+title: "K99/R00 grant funded"
+description: "My NIH/NHGRI K99/R00 grant to develop statistical methods for gene regulatory network estimation has been funded."
+author: "News"
+date: "2013-09-27"
+categories: [news, grants]
+image: "/files/images/nhgri_logo.png"
+#css: /custom.css
+#draft: true
+---
+
+
+## Summary
+Advances in genomic technology have led to the discovery of numerous genes whose expression differs between cellular conditions; however, genes do not act in isolation, rather they act together in complex networks that drive cellular function. By considering the interactions between genes (and gene products), one gains a more in-depth understanding of the underlying cellular mechanisms. Estimation of these gene regulatory networks is necessary to understand cellular mechanisms, detect differences between cell types, and predict cellular response to interventions. Cancer progression has been shown to produce drastic changes in genetic networks critical to normal cellular function. Some oncogenic mutations produce self-sustaining alterations in the network structure such that removal of the original mutation does not restore normal cellular function. This suggests that identifying the original oncogenic mutation may not be sufficient for a targeted intervention; rather, a detailed understanding of the gene regulatory networks present in both normal and malignant cells may be necessary. Gene perturbation experiments are the primary tool to investigate gene regulatory networks and predict cellular response to interventions. Unfortunately, current network estimation algorithms are unable to adequately reconstruct gene networks from expression data. This is not surprising given that most network estimation algorithms function modularly and disregard uncertainty in previous steps. The overall goals of the proposed research are: (1) to improve the estimation of gene regulatory networks from perturbation experiments, by using methods that explicitly model and incorporate uncertainty in each step of the process, and (2) to use these estimated networks to predict cellular response to intervention. My long term goal is to pursue independent research into complex cellular networks drawing on the fields of statistics, systems biology, and genetics. This Award will provide support to obtain the expertise required to address the proposed research aims and transition to an independent research career. This will be accomplished through a combination of coursework, mentorship, and research experience. Of particular importance is continuing my education in molecular biology and cancer genomics through formal coursework and instruction in genomic laboratory techniques. This will provide the background necessary to work closely with biomedical investigators developing statistical methodology that addresses cutting-edge challenges in genomic research. Regular interaction with my mentors and collaborators experts in Statistics, Computational Biology, Biomedical Genetics, and Cancer Research will provide a rich environment in which I can obtain the necessary skills to successfully transition to independent research.
+
+
+<!--Include social share buttons-->
+
+{{< include /files/includes/_socialshare.qmd >}}

@@ -14,8 +14,78 @@
 <title>McCall Research Group</title>
 <link>https://mccallm.github.io/posts.html</link>
 </image>
-<generator>quarto-1.5.57</generator>
-<lastBuildDate>Fri, 04 Apr 2025 04:00:00 GMT</lastBuildDate>
+<generator>quarto-1.7.32</generator>
+<lastBuildDate>Mon, 03 Nov 2025 05:00:00 GMT</lastBuildDate>
+<item>
+  <title>Farewell Hannah Swan!</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2025-hannah-departs/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>farewells</category>
+  <guid>https://mccallm.github.io/posts/2025-hannah-departs/</guid>
+  <pubDate>Mon, 03 Nov 2025 05:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Hannah Swan successfully defended her thesis</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2025-hannah-defense/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>defense</category>
+  <guid>https://mccallm.github.io/posts/2025-hannah-defense/</guid>
+  <pubDate>Thu, 30 Oct 2025 04:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Youjia Zhang and Ekram Hossain present research at GIDS-AI 10th Anniversary Celebration</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2025-youjia-poster/</link>
+  <description><![CDATA[ 
+
+
+
+
+<section id="summary" class="level2">
+<h2 class="anchored" data-anchor-id="summary">Summary</h2>
+<p>Founded in 2015, the Goergen Institute for Data Science and Artificial Intelligence (GIDS-AI) was one of the first data science institutes globally, establishing the University of Rochester as a data science innovator and serving as the University’s integrative data science hub. Over the past decade the Institute has greatly expanded its reach, offering a wide variety of data science degree programs, supporting interdisciplinary data science and artificial intelligence (AI) research, and fostering countless industry-academia data science and AI collaborations with economic and societal impact.</p>
+<p>To celebrate 10 years of the Institute and look ahead to the future, GIDS-AI hosted a full day of events on Friday, September 19, 2025, during Meliora Weekend. We invited all of our incredible faculty, staff, students, alumni, donors, friends, and supporters to join us on campus to celebrate this important milestone.</p>
+<!--Include social share buttons-->
+<!-- 
+AddToAny check more: https://www.addtoany.com/buttons/for/website 
+Using includes will make edits easier, will only need to add or remove button here if needed.
+https://quarto.org/docs/authoring/includes.html
+-->
+<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
+<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
+</div>
+<script async="" src="https://static.addtoany.com/menu/page.js"></script>
+
+
+</section>
+
+ ]]></description>
+  <category>news</category>
+  <category>conference</category>
+  <guid>https://mccallm.github.io/posts/2025-youjia-poster/</guid>
+  <pubDate>Fri, 19 Sep 2025 04:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/images/youjia_poster.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Youjia Zhang awarded Schwartz Discover Grant</title>
   <dc:creator>News </dc:creator>
@@ -174,25 +244,6 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://mccallm.github.io/files/images/ninds_logo.png" medium="image" type="image/png" height="33" width="144"/>
 </item>
 <item>
-  <title>Matt has been granted tenure</title>
-  <dc:creator>News </dc:creator>
-  <link>https://mccallm.github.io/posts/2024-matt-tenure/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>promotions</category>
-  <guid>https://mccallm.github.io/posts/2024-matt-tenure/</guid>
-  <pubDate>Thu, 01 Feb 2024 05:00:00 GMT</pubDate>
-  <media:content url="https://mccallm.github.io/files/profiles/McCall-Photo.JPG" medium="image"/>
-</item>
-<item>
   <title>Ernesto receives Marie Sklodowska-Curie Fellowship</title>
   <dc:creator>News </dc:creator>
   <link>https://mccallm.github.io/posts/2024-ernesto-grant/</link>
@@ -225,6 +276,25 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://mccallm.github.io/posts/2024-ernesto-grant/</guid>
   <pubDate>Thu, 01 Feb 2024 05:00:00 GMT</pubDate>
   <media:content url="https://mccallm.github.io/files/images/ec_logo.svg" medium="image" type="image/svg+xml"/>
+</item>
+<item>
+  <title>Matt has been granted tenure</title>
+  <dc:creator>News </dc:creator>
+  <link>https://mccallm.github.io/posts/2024-matt-tenure/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>promotions</category>
+  <guid>https://mccallm.github.io/posts/2024-matt-tenure/</guid>
+  <pubDate>Thu, 01 Feb 2024 05:00:00 GMT</pubDate>
+  <media:content url="https://mccallm.github.io/files/profiles/McCall-Photo.JPG" medium="image"/>
 </item>
 <item>
   <title>Seong-Hwan Jun promoted to Assistant Professor</title>
@@ -404,77 +474,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://mccallm.github.io/posts/2022-seong-joins/</guid>
   <pubDate>Sat, 01 Oct 2022 04:00:00 GMT</pubDate>
   <media:content url="https://mccallm.github.io/files/profiles/seong-hwan-jun.png" medium="image" type="image/png" height="165" width="144"/>
-</item>
-<item>
-  <title>Hopngying returns to URMC as an Assistant Professor</title>
-  <dc:creator>News </dc:creator>
-  <link>https://mccallm.github.io/posts/2022-hongying-faculty/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>promotions</category>
-  <guid>https://mccallm.github.io/posts/2022-hongying-faculty/</guid>
-  <pubDate>Thu, 01 Sep 2022 04:00:00 GMT</pubDate>
-</item>
-<item>
-  <title>MicroRNA-seq R01 funded</title>
-  <dc:creator>News </dc:creator>
-  <link>https://mccallm.github.io/posts/2021-microRNA-grant/</link>
-  <description><![CDATA[ 
-
-
-
-
-<section id="summary" class="level2">
-<h2 class="anchored" data-anchor-id="summary">Summary</h2>
-<p>MicroRNAs (miRNAs) are a class of small (18-24 nucleotide) RNAs that are essential regulators of gene expression, which act within the RNA-induced silencing complex (RISC) to bind mRNAs and suppress translation. Alterations in miRNA expression have been shown to disrupt entire cellular pathways, substantially contributing to a variety of human diseases. Despite nearly 25 years of research, miRNAs remain difficult to measure due to their short length, relatively small number, sequence similarity, and difficulty to isolate from other small RNA fragments. While qPCR- and microarray-based miRNA assays are still widely used, the majority of recent studies use small RNA-seq (sRNA-seq) because it allows for the quantification of isomiRs (miRNA isoforms) and the possibility of identifying novel miRNAs. The processing of reads generated from sRNA-seq data globally distinguish between miRNA reads and those from other small RNAs, but do not necessarily capture the full spectrum of miRNA variation. Subsequent statistical analyses of processed sRNA-seq data are still performed using methods developed for mRNA-seq data despite the fact that sRNA-seq data violate several of the assumptions of these methods. Specifically, methods for mRNA-seq data assume approximate independence between feature counts; however, the small total number of miRNAs and presence of a small number of very highly expressed miRNAs result in a lack of independence between miRNA counts. Additionally, normalization methods for mRNA-seq data assume either the overall level of transcription is constant across samples or an equal number of features are over- and under-expressed when comparing any two samples, neither of which hold for sRNA-seq data. The development of statistical methods that address the challenges of sRNA-seq data represents a critical need for miRNA research.</p>
-<p>Our long-term goal is to advance miRNA research by developing statistical methods that are tailored to the specific complexities of miRNA expression data. The overall objective of this application is to improve the analysis of sRNA-seq data by developing statistical methods that account for challenges specific to sRNA-seq data and outperform methods designed for mRNA-seq data. This addresses an urgent need for statistical methods to appropriately analyze sRNA-seq data, which are now routinely generated by large consortia such as TCGA and FANTOM. The rationale that underlies the proposed research is that methods that explicitly address the challenges inherent in measuring miRNAs are necessary to fully elucidate the role miRNAs play in many human disease processes.</p>
-<!--Include social share buttons-->
-<!-- 
-AddToAny check more: https://www.addtoany.com/buttons/for/website 
-Using includes will make edits easier, will only need to add or remove button here if needed.
-https://quarto.org/docs/authoring/includes.html
--->
-<div class="a2a_kit a2a_kit_size_32 a2a_default_style">
-<p><a class="a2a_dd" href="https://www.addtoany.com/share"></a> <a class="a2a_button_linkedin"></a> <a class="a2a_button_bluesky"></a> <a class="a2a_button_facebook"></a> <a class="a2a_button_copy_link"></a> <a class="a2a_button_email"></a></p>
-</div>
-<script async="" src="https://static.addtoany.com/menu/page.js"></script>
-
-
-</section>
-
- ]]></description>
-  <category>news</category>
-  <category>grants</category>
-  <guid>https://mccallm.github.io/posts/2021-microRNA-grant/</guid>
-  <pubDate>Mon, 13 Sep 2021 04:00:00 GMT</pubDate>
-  <media:content url="https://mccallm.github.io/files/images/nigms_logo.png" medium="image" type="image/png" height="31" width="144"/>
-</item>
-<item>
-  <title>Yun Zhang was promoted to an Assistant Professor at JCVI</title>
-  <dc:creator>News </dc:creator>
-  <link>https://mccallm.github.io/posts/2021-yun-promoted/</link>
-  <description><![CDATA[ 
-
-
-
-
-
-
-
- ]]></description>
-  <category>news</category>
-  <category>promotions</category>
-  <guid>https://mccallm.github.io/posts/2021-yun-promoted/</guid>
-  <pubDate>Tue, 06 Apr 2021 04:00:00 GMT</pubDate>
-  <media:content url="https://mccallm.github.io/files/profiles/yun-zhang.png" medium="image" type="image/png" height="144" width="144"/>
 </item>
 </channel>
 </rss>

@@ -1,0 +1,10 @@
+---
+title: "Farewell Hannah Swan!"
+description: "Dr. Hannah Swan has accepted a position as an Analyst II at Liberty Mutual Insurance."
+author: "News"
+date: "2025-11-03"
+categories: [news, farewells]
+#image: "/files/profiles/hannah-swan.png"
+#css: /custom.css
+#draft: true
+---

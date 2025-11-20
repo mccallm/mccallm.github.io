@@ -1,0 +1,10 @@
+---
+title: "Hannah Swan successfully defended her thesis"
+description: "Hannah Swan is now Dr. Hannah Swan after successfully defending her PhD thesis."
+author: "News"
+date: "2025-10-30"
+categories: [news, defense]
+#image: "/files/images/hannah-defense.png"
+#css: /custom.css
+#draft: true
+---

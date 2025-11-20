@@ -4,7 +4,7 @@ description: "Hannah Swan is now Dr. Hannah Swan after successfully defending he
 author: "News"
 date: "2025-10-30"
 categories: [news, defense]
-#image: "/files/images/hannah-defense.png"
+image: "/files/images/hannah-defense.jpg"
 #css: /custom.css
 #draft: true
 ---

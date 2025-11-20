@@ -4,7 +4,7 @@ description: "Dr. Hannah Swan has accepted a position as an Analyst II at Libert
 author: "News"
 date: "2025-11-03"
 categories: [news, farewells]
-#image: "/files/profiles/hannah-swan.png"
+image: "/files/profiles/hannah-swan.png"
 #css: /custom.css
 #draft: true
 ---

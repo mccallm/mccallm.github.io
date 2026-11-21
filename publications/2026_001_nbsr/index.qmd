@@ -11,5 +11,5 @@ journ: "Biostatistics"
 issue: 27
 page: 1
 year: 2026
-pub_number: 100
+image: "featured.jpeg"
 ---

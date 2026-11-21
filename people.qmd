@@ -21,6 +21,9 @@ listing:  #an example of listing external links
     - /people/ernesto-puerta.yml
     - /people/andrea-baran.yml
     - /people/ekram-hossain.yml
+    - /people/alex-guo.yml
+    - /people/killian-simonson.yml
+#    - /people/xinyi-chen.yml
 
 - id: lab-alumni
   sort: 

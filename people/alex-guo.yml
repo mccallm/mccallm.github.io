@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/alexguo10/
+      image: "/files/profiles/alex-guo.jpeg"
+      title: "Haotian (Alex) Guo"
+      lastname: "Guo"
+#      author: 
+      subtitle: "PhD Student"
+#      date: "2024-03-12"
+      categories: [PhD Student] 
+      started: "2026"
+      ended: ""

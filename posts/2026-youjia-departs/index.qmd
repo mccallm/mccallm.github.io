@@ -1,0 +1,10 @@
+---
+title: "Farewell Youjia Zhang!"
+description: "Youjia Zhang has started an MS in Biostatistics at Harvard University."
+author: "News"
+date: "2026-08-01"
+categories: [news, farewells]
+image: "/files/profiles/youjia-zhang.jpeg"
+#css: /custom.css
+#draft: true
+---

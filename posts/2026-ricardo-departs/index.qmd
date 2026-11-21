@@ -1,0 +1,10 @@
+---
+title: "Farewell Ricardo Lopez Candelaria!"
+description: "Dr. Ricardo Lopez Candelaria has accepted a position as a Postdoctoral Fellow at National Library of Medicine (NLM)."
+author: "News"
+date: "2026-05-03"
+categories: [news, farewells]
+image: "/files/profiles/ricardo-lopez.jpeg"
+#css: /custom.css
+#draft: true
+---

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.7.32">
+<meta name="generator" content="quarto-1.9.38">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,6 +11,9 @@
 
 <title>People – McCall Research Group</title>
 <style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
 div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -40,10 +43,10 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-37eea08aefeeee20ff55810ff984fec1.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-15634bcf2e68342d4ad2dfa704d543f6.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-f07a380226b71dccd824dee245407231.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-346337e101949f30c9d2a2307ffdd10b.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/all.min.css" rel="stylesheet">
 <link href="site_libs/quarto-contrib/fontawesome6-1.2.0/latex-fontsize.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
@@ -113,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
       valueNames: ['listing-image','listing-title','listing-subtitle','listing-started','listing-ended',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-title-sort'] }],
       page: 30,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
-      searchColumns: ["listing-image","listing-title","listing-lastname","listing-subtitle","listing-categories","listing-started","listing-ended"],
+      searchColumns: ["listing-title","listing-lastname","listing-subtitle","listing-categories","listing-started","listing-ended","listing-image"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
@@ -161,7 +164,7 @@ https://badge.dimensions.ai/
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <script defer="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 const typesetMath = (el) => {
@@ -174,7 +177,7 @@ const typesetMath = (el) => {
     var macros = [];
     for (var i = 0; i < mathElements.length; i++) {
       var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
         window.katex.render(texText.data, mathElements[i], {
           displayMode: mathElements[i].classList.contains('display'),
           throwOnError: false,
@@ -342,23 +345,7 @@ Postdoctoral Scholar
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="3" data-categories="VDMyJTIwVHJhaW5lZQ==">
-<a href="https://www.linkedin.com/in/ricardo-lópez-candelaria-42581a227/" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./files/profiles/ricardo-lopez.jpeg" class="thumbnail-image card-img" style="height: 200px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Ricardo Lopez Candelaria
-</h5>
-<div class="card-subtitle listing-subtitle">
-T32 Trainee
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="4" data-categories="U2VuaW9yJTIwQXNzb2NpYXRl">
+<div class="g-col-1" data-index="3" data-categories="U2VuaW9yJTIwQXNzb2NpYXRl">
 <a href="https://www.urmc.rochester.edu/people/112359703-andrea-m-baran" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -374,7 +361,7 @@ Senior Associate
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="UmVzZWFyY2glMjBEYXRhJTIwRW5naW5lZXI=">
+<div class="g-col-1" data-index="4" data-categories="UmVzZWFyY2glMjBEYXRhJTIwRW5naW5lZXI=">
 <a href="https://www.linkedin.com/in/ekram-hossain-36abb04b/" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-center">
 <p class="card-img-top">
@@ -386,22 +373,6 @@ Ekram Hossain
 </h5>
 <div class="card-subtitle listing-subtitle">
 Research Data Engineer
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="6" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=">
-<a href="https://www.linkedin.com/in/youjia-zhang-ab5275268/" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-center">
-<p class="card-img-top">
-<img loading="lazy" src="./files/profiles/youjia-zhang.jpeg" class="thumbnail-image card-img" style="height: 200px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Youjia Zhang
-</h5>
-<div class="card-subtitle listing-subtitle">
-Undergraduate Student
 </div>
 </div>
 </div></a>
@@ -419,8 +390,6 @@ Undergraduate Student
     <select id="listing-lab-alumni-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-lab-alumni'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
       <option value="" disabled="" selected="" hidden="">Order By</option>
       <option value="index" data-direction="asc">Default</option>
-      <option value="listing-image" data-direction="asc">
-      </option>
       <option value="listing-title-sort" data-direction="asc">
         Name
       </option>
@@ -432,6 +401,8 @@ Undergraduate Student
       </option>
       <option value="listing-ended" data-direction="asc">
         Ended
+      </option>
+      <option value="listing-image" data-direction="asc">
       </option>
     </select>
   </div>
@@ -622,7 +593,7 @@ Undergraduate Student
 
 <tr data-index="8" data-categories="UGhEJTIwU3R1ZGVudA==" data-listing-title-sort="Hannah Swan">
 <td>
-<span class="listing-image"><img loading="lazy" src="./files/profiles/hannah-swan.png" style="height: 25px;"></span>
+<span class="listing-image">&nbsp;</span>
 </td>
 <td>
 <a href="https://www.linkedin.com/in/hannah-swan-225b78166/" class="title listing-title">Hannah Swan</a>
@@ -772,7 +743,26 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="16" data-categories="VDMyJTIwVHJhaW5lZQ==" data-listing-title-sort="Yun Zhang">
+<tr data-index="16" data-categories="VDMyJTIwVHJhaW5lZQ==" data-listing-title-sort="Ricardo Lopez Candelaria">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/ricardo-lópez-candelaria-42581a227/" class="title listing-title">Ricardo Lopez Candelaria</a>
+</td>
+<td>
+<span class="listing-subtitle">T32 Trainee</span>
+</td>
+<td>
+<span class="listing-started">2023</span>
+</td>
+<td>
+<span class="listing-ended">2026</span>
+</td>
+
+</tr>
+
+<tr data-index="17" data-categories="VDMyJTIwVHJhaW5lZQ==" data-listing-title-sort="Yun Zhang">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -791,7 +781,26 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="17" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Claire English">
+<tr data-index="18" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Youjia Zhang">
+<td>
+<span class="listing-image">&nbsp;</span>
+</td>
+<td>
+<a href="https://www.linkedin.com/in/youjia-zhang-ab5275268/" class="title listing-title">Youjia Zhang</a>
+</td>
+<td>
+<span class="listing-subtitle">Undergraduate Student</span>
+</td>
+<td>
+<span class="listing-started">2024</span>
+</td>
+<td>
+<span class="listing-ended">2026</span>
+</td>
+
+</tr>
+
+<tr data-index="19" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Claire English">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -810,7 +819,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="18" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Monish Shah">
+<tr data-index="20" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Monish Shah">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -829,7 +838,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="19" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Maisa Maliha">
+<tr data-index="21" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Maisa Maliha">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -848,7 +857,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="20" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Frank Gonzalez">
+<tr data-index="22" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Frank Gonzalez">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -867,7 +876,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="21" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Joshua Dennis">
+<tr data-index="23" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Joshua Dennis">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -886,7 +895,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="22" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Daniel Munoz Huerta">
+<tr data-index="24" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Daniel Munoz Huerta">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -905,7 +914,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="23" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Yuewei Fei">
+<tr data-index="25" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Yuewei Fei">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -924,7 +933,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="24" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Michael Lansford">
+<tr data-index="26" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Michael Lansford">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -943,7 +952,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="25" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Benyu Zhou">
+<tr data-index="27" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Benyu Zhou">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -962,7 +971,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="26" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Oleg Demus">
+<tr data-index="28" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Oleg Demus">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -981,7 +990,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="27" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Kailey Ferger">
+<tr data-index="29" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Kailey Ferger">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -1000,7 +1009,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="28" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Benjamin Hsu">
+<tr data-index="30" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Benjamin Hsu">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -1019,7 +1028,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="29" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Qidi Yang">
+<tr data-index="31" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Qidi Yang">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -1038,7 +1047,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="30" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Alida Mooney">
+<tr data-index="32" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Alida Mooney">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -1057,7 +1066,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="31" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Winslow Powers">
+<tr data-index="33" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Winslow Powers">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -1076,7 +1085,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="32" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Jonavelle Cuerdo">
+<tr data-index="34" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Jonavelle Cuerdo">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -1095,7 +1104,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="33" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Lindsey Barden">
+<tr data-index="35" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Lindsey Barden">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -1114,7 +1123,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="34" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Allison Maier">
+<tr data-index="36" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Allison Maier">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -1133,7 +1142,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="35" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Scott Onestak">
+<tr data-index="37" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Scott Onestak">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -1152,7 +1161,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="36" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Lauren Kemperman">
+<tr data-index="38" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Lauren Kemperman">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -1171,7 +1180,7 @@ Undergraduate Student
 
 </tr>
 
-<tr data-index="37" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Jeffrey Hrebenach">
+<tr data-index="39" data-categories="VW5kZXJncmFkdWF0ZSUyMFN0dWRlbnQ=" data-listing-title-sort="Jeffrey Hrebenach">
 <td>
 <span class="listing-image">&nbsp;</span>
 </td>
@@ -1254,13 +1263,14 @@ Undergraduate Student
       e.clearSelection();
     }
     const getTextToCopy = function(trigger) {
-        const codeEl = trigger.previousElementSibling.cloneNode(true);
-        for (const childEl of codeEl.children) {
-          if (isCodeAnnotation(childEl)) {
-            childEl.remove();
-          }
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
         }
-        return codeEl.innerText;
+      }
+      return codeEl.innerText;
     }
     const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
       text: getTextToCopy

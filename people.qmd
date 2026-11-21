@@ -19,10 +19,8 @@ listing:  #an example of listing external links
     - /people/pi.yml  
     - /people/seong-hwan-jun.yml
     - /people/ernesto-puerta.yml
-    - /people/ricardo-lopez.yml
     - /people/andrea-baran.yml
     - /people/ekram-hossain.yml
-    - /people/youjia-zhang.yml
 
 - id: lab-alumni
   sort: 
@@ -80,7 +78,9 @@ listing:  #an example of listing external links
     - /people/meherab-hossain.yml
     - /people/claire-wang.yml
     - /people/pranay-mundra.yml
-
+    - /people/youjia-zhang.yml
+    - /people/ricardo-lopez.yml
+    
 page-navigation: false
 title-block-banner: false
 toc: false

@@ -1,5 +1,5 @@
     - path: https://www.linkedin.com/in/youjia-zhang-ab5275268/
-      image: "/files/profiles/youjia-zhang.jpeg"
+#      image: "/files/profiles/youjia-zhang.jpeg"
       title: "Youjia Zhang"
       lastname: "Zhang"
 #      author: 
@@ -7,4 +7,4 @@
 #      date: "2024-03-12"
       categories: [Undergraduate Student] 
       started: "2024"
-      ended: ""
+      ended: "2026"

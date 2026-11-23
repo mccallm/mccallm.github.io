@@ -1,0 +1,10 @@
+    - path: https://github.com/Xinyichen120
+      image: "/files/profiles/xinyi-chen.jpg"
+      title: "Xinyi Chen"
+      lastname: "Chen"
+#      author: 
+      subtitle: "PhD Student"
+#      date: "2025-09-01"
+      categories: [PhD Student] 
+      started: "2025"
+      ended: ""

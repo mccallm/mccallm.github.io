@@ -1,0 +1,10 @@
+    - path: https://www.linkedin.com/in/zhining-sui/
+      image: "/files/profiles/zhining-sui.jpeg"
+      title: "Zhining Sui"
+      lastname: "Sui"
+#      author: 
+      subtitle: "Graduate Research Assistant"
+#      date: "2024-03-12"
+      categories: [Graduate Research Assistant] 
+      started: "2025"
+      ended: ""

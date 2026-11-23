@@ -21,9 +21,10 @@ listing:  #an example of listing external links
     - /people/ernesto-puerta.yml
     - /people/andrea-baran.yml
     - /people/ekram-hossain.yml
+    - /people/zhining-sui.yml
     - /people/alex-guo.yml
+    - /people/xinyi-chen.yml
     - /people/killian-simonson.yml
-#    - /people/xinyi-chen.yml
 
 - id: lab-alumni
   sort: 
@@ -83,6 +84,8 @@ listing:  #an example of listing external links
     - /people/pranay-mundra.yml
     - /people/youjia-zhang.yml
     - /people/ricardo-lopez.yml
+    - /people/abby-nguyen.yml
+    - /people/fred-li.yml
     
 page-navigation: false
 title-block-banner: false
